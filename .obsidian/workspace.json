@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA notes.md",
+                "file": "Class Notes/dotnet notes/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCA notes"
+              "title": "Introduction"
             }
           }
         ]
@@ -198,6 +198,10 @@
   },
   "active": "b6f2358d37228ac3",
   "lastOpenFiles": [
-    "MCA notes.md"
+    "Class Notes/Untitled.md",
+    "Class Notes/dotnet notes/Introduction.md",
+    "Class Notes/dotnet notes",
+    "MCA notes.md",
+    "Class Notes"
   ]
 }
