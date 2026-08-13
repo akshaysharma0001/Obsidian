@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96c43c1f5368fc35",
+        "id": "eaeab45b388c8a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f2358d37228ac3",
+            "id": "94d7f419f33d632a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,7 @@
       {
         "id": "67d88d917fb12810",
         "type": "tabs",
+        "dimension": 70.70707070707071,
         "children": [
           {
             "id": "cfc38a0a406da63a",
@@ -42,7 +43,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -80,10 +81,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "57a1873e4c0d872f",
+        "type": "tabs",
+        "dimension": 29.292929292929294,
+        "children": [
+          {
+            "id": "b6f2358d37228ac3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -92,6 +110,7 @@
       {
         "id": "cd8f61420477a75e",
         "type": "tabs",
+        "dimension": 65.40697674418605,
         "children": [
           {
             "id": "febe129a910e631c",
@@ -132,8 +151,8 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "intro"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -178,7 +197,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
+      },
+      {
+        "id": "09f90c6aabf85b87",
+        "type": "tabs",
+        "dimension": 34.593023255813954,
+        "children": [
+          {
+            "id": "d0817a9e789ca4cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,10 +232,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b6f2358d37228ac3",
+  "active": "281bf71adc386ea4",
   "lastOpenFiles": [
-    "Class Notes/Untitled.md",
     "Class Notes/dotnet notes/Introduction.md",
+    "Class Notes/Untitled.md",
     "Class Notes/dotnet notes",
     "MCA notes.md",
     "Class Notes"
