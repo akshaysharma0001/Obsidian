@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Class Notes/dotnet notes/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +197,7 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "09f90c6aabf85b87",
@@ -229,10 +229,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "281bf71adc386ea4",
+  "active": "94d7f419f33d632a",
   "lastOpenFiles": [
     "Class Notes/dotnet notes/Introduction.md",
     "Class Notes/Untitled.md",
