@@ -13,3 +13,13 @@ Elements /tags
 	- `<ins>` - Inserted text -underlined
 	- `<sub>` - Subscript text
 	- `<sup>` - Superscript text
+	- `<a>`- > `<a href="_url_">_link text_</a>`
+		- The `target` attribute can have one of the following values:
+		- `_self` - Default. Opens the document in the same window/tab as it was clicked
+		- `_blank` - Opens the document in a new window or tab
+		- `_parent` - Opens the document in the parent frame
+		- `_top` - Opens the document in the full body of the window
+	- `<img>`-`<img src="img_girl.jpg" alt="Girl in a jacket">`
+
+### Table
+
