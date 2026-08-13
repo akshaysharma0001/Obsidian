@@ -11,12 +11,14 @@
             "id": "94d7f419f33d632a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images_(9).jpeg"
+                "file": "Class Notes/Full stack/Full stack syllabus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "images_(9)"
+              "icon": "lucide-file",
+              "title": "Full stack syllabus"
             }
           }
         ]
@@ -101,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "images_(9).jpeg",
+                "file": "Class Notes/Full stack/Full stack syllabus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.5087618855792582,
                   "close": true
                 }
               },
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images_(9).jpeg",
+                "file": "Class Notes/Full stack/Full stack syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,8 +272,21 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "94d7f419f33d632a",
+  "active": "cfc38a0a406da63a",
   "lastOpenFiles": [
+    "Webdev",
+    "Class Notes/dotnet notes/Introduction.md",
+    "WebDev/Webdev Notes/Week1/Orientation/Good things to hash out.md",
+    "WebDev/Webdev Notes/Week1/Orientation/CSS.md",
+    "WebDev/Webdev Notes/Week1/Orientation/Avoid the spikes.md",
+    "WebDev/Webdev Notes/Week1/Javascript/Syntax of Javascript.md",
+    "WebDev/Webdev Notes/Week1/Javascript/Properties of JS.md",
+    "WebDev/Webdev Notes/Week1/Javascript/Did you code yesterday.md",
+    "WebDev/Webdev Notes/Week1/Javascript/Complex types.md",
+    "WebDev/Webdev Notes/Week1/Javascript.md",
+    "WebDev/Webdev Notes/Week1.md",
+    "WebDev/Webdev Notes.md",
+    "images_(9).jpeg",
     "0_nUH_J9JBLccyeW_A.jpg",
     "WebDev/Web dev Syllabus.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Untitled.md",
@@ -290,24 +305,11 @@
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Create an HTTP Server.md",
     "Screenshot_2024-08-31_at_6.59.39_PM.png",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Fetch API.md",
-    "Screenshot_2024-08-31_at_6.52.34_PM.png",
-    "Screenshot_2024-08-31_at_6.49.59_PM.png",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Headers.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Recap.md",
     "WebDev/Webdev Notes/Week4/Intro to HTTP/Untitled.md",
     "WebDev/Webdev Notes/Week4/Intro to HTTP/Writing HTTP code in js.md",
     "WebDev/Webdev Notes/Week4/Intro to HTTP/Clients (Postman-curl-browser).md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Do we understand the following now.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Headers.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Routes.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Body.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Status codes.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Response.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Methods.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Ports.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Domain name-IP.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Request Response model.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Why the HTTP Protocol.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
     "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
