@@ -4,7 +4,7 @@
 | ------------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | Easy                                              | Medium                                     | Hard                                          |
 | [[HTML]]                                          |                                            |                                               |
-| CSS                                               |                                            |                                               |
+| [[CSS]]                                           |                                            |                                               |
 | Bash basics (cd, ls, pwd, mkdir, touch, vi)       |                                            |                                               |
 |                                                   | Bash medium (grep, piping, reverse search) |                                               |
 | Git/Github                                        |                                            |                                               |

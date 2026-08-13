@@ -1,4 +1,15 @@
 Elements /tags
 - Every tag can have attribute
 - `<body style="background-color:blue;">`
-- Important attributes- font-size, background-color, color ,text align
+- ==Important attributes==- font-size, background-color, color ,text align 
+- Important HTML tags - 
+	-  `<b>` - Bold text
+	- `<strong>` - Important text- it appears bold
+	- `<i>` - Italic text
+	- `<em>` - Emphasized text -its like italics
+	- `<mark>` - Marked text -highlighted
+	- `<small>` - Smaller text
+	- `<del>` - Deleted text -strike through
+	- `<ins>` - Inserted text -underlined
+	- `<sub>` - Subscript text
+	- `<sup>` - Superscript text
