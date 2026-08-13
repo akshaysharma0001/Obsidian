@@ -134,8 +134,7 @@
               "title": "Local graph"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,6 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Webdev/Web dev syllabus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,14 +228,17 @@
           {
             "id": "b0d5003792ac7c81",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "09f90c6aabf85b87",
