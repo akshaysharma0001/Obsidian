@@ -29,7 +29,37 @@ Elements /tags
 - adjust column width -`<th style="width: 20%;">Name</th>`
 
 
-![[Pasted image 20260813195836.png]]
+![[Table example.png]]
 
 - Code ->
-	- 
+		`<table>
+        <tr>
+            <th rowspan="2" colspan="2" style="width: 50%;">Name</th>
+            <th colspan="2">Marks</th>
+            
+        </tr>
+        <tr>
+            
+            <td>java</td>
+            <td>python</td>
+            
+        </tr>
+        <tr>
+            <td>Akshay</td>
+            <td>sharma</td>
+            <td>85</td>
+            <td>95</td>
+        </tr>
+        <tr>
+            <td>Ayush</td>
+            <td>pathak</td>
+            <td>82</td>
+            <td>89</td>
+        </tr>
+        <tr>
+            <td>Ansh</td>
+            <td>pal singh</td>
+            <td>80</td>
+            <td>84</td>
+        </tr>
+    </table>`
