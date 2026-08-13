@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/Full stack/Full stack syllabus.md",
+                "file": "WebDev/Web dev Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full stack syllabus"
+              "title": "Web dev Syllabus"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Class Notes/Full stack/Full stack syllabus.md",
+                "file": "WebDev/Web dev Syllabus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Notes/Full stack/Full stack syllabus.md",
+                "file": "WebDev/Web dev Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,10 +271,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cfc38a0a406da63a",
+  "active": "94d7f419f33d632a",
   "lastOpenFiles": [
-    "Untitled",
     "Class Notes/Full stack/Full stack syllabus.md",
+    "WebDev/Web dev Syllabus.md",
+    "WebDev",
     "Class Notes/Full stack",
     "Class Notes/dotnet notes/Introduction.md",
     "Class Notes/Untitled.md",
