@@ -22,4 +22,10 @@ Elements /tags
 	- `<img>`-`<img src="img_girl.jpg" alt="Girl in a jacket">`
 
 ### Table
-
+`<table>  
+  <tr>  
+    <td>Emil</td>  
+    <td>Tobias</td>  
+    <td>Linus</td>  
+  </tr>  
+</table>`
