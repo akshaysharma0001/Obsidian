@@ -1,0 +1,34 @@
+As the name suggests, `static HTML` represents HTML that does not change.
+
+For example -
+
+```jsx
+<!DOCTYPE html>
+<html>
+	<head>
+	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width">
+	  <title>replit</title>
+	  <link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+	
+	<body>
+	  <h1>Todo list</h1>
+	  <h4>1. Take class</h4>
+	  <h4>2. Go out to eat</h4>
+	  <div>
+	    <input type="text"></input>
+	    <button>Add Todo</button>
+	  </div>
+	  <script src="script.js"></script>
+	</body>
+	
+</html>
+```
+
+  
+If you click on the `Add Todo` button, nothing happens
+
+  
+
+![[Screenshot_2024-08-17_at_5.35.13_PM.png]]

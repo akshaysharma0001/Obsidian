@@ -1,0 +1,183 @@
+Until now, we created a simple `div` element
+
+```jsx
+const textNode = document.createElement("div");
+textNode.innerHTML = inputEl.value;
+```
+
+  
+The problem is it doesn’t have a corresponding `delete` button.
+
+![[Screenshot_2024-08-17_at_7.05.47_PM.png]]
+
+  
+
+Can you try to fix it?
+
+### Solution #1
+
+```html
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Todo list</h1>
+  <div id="todos">
+    <div id="todo-1">
+      <h4>1. Take class</h4>
+      <button onclick="deleteTodo(1)">delete</button>
+    </div>
+    <div id="todo-2">
+      <h4>2. Go out to eat</h4>
+      <button onclick="deleteTodo(2)">delete</button>
+    </div>
+  </div>
+  <div>
+    <input id="inp" type="text"></input>
+    <button onclick="addTodo()">Add Todo</button>
+  </div>
+</body>
+
+<script>
+  let currentIndex = 3;
+  function addTodo() {
+    const inputEl = document.getElementById("inp");
+    const textNode = document.createElement("div");
+    textNode.innerHTML = "<div id='todo-" + currentIndex + "'><h4>" + inputEl.value + '</h4><button onclick="deleteTodo(' + currentIndex + ') ">Delete</button>';
+    const parentEl = document.getElementById("todos");
+    parentEl.appendChild(textNode);
+
+    currentIndex = currentIndex + 1;
+  }
+
+  function deleteTodo(index) {
+    const element = document.getElementById("todo-" + index);
+    element.parentNode.removeChild(element);
+  }
+</script>
+
+</html>
+```
+
+### Solution #2
+
+```html
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Todo List</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Todo list</h1>
+  <div id="todos">
+    <div id="todo-1">
+      <h4>1. Take class</h4>
+      <button onclick="deleteTodo(1)">Delete</button>
+    </div>
+    <div id="todo-2">
+      <h4>2. Go out to eat</h4>
+      <button onclick="deleteTodo(2)">Delete</button>
+    </div>
+  </div>
+  <div>
+    <input id="inp" type="text">
+    <button onclick="addTodo()">Add Todo</button>
+  </div>
+
+  <script>
+    let currentIndex = 3;
+
+    function addTodo() {
+      const inputEl = document.getElementById("inp");
+      const todoText = inputEl.value.trim();
+
+      if (todoText === '') {
+        alert('Please enter a todo item.');
+        return;
+      }
+
+      const parentEl = document.getElementById("todos");
+
+      // Create new todo div
+      const newTodo = document.createElement('div');
+      newTodo.setAttribute("id", 'todo-' + currentIndex);
+
+      // Create new heading element
+      const newHeading = document.createElement('h4');
+      newHeading.textContent = currentIndex + '. ' + todoText;
+
+      // Create new button element
+      const newButton = document.createElement('button');
+      newButton.textContent = 'Delete';
+      newButton.setAttribute("onclick", "deleteTodo(" + currentIndex + ")");
+
+      // Append elements to the new todo div
+      newTodo.appendChild(newHeading);
+      newTodo.appendChild(newButton);
+
+      // Append new todo to the parent element
+      parentEl.appendChild(newTodo);
+
+      // Increment the index for the next todo item
+      currentIndex++;
+
+      // Clear the input field
+      inputEl.value = '';
+    }
+
+    function deleteTodo(index) {
+      const element = document.getElementById("todo-" + index);
+      if (element) {
+        element.parentNode.removeChild(element);
+      }
+    }
+  </script>
+</body>
+
+</html>
+```
+
+  
+
+Code to debug
+
+```html
+<html>
+
+<body>
+  <input type="text"></input>
+  <button onclick="addTodo()">Add todo!</button>
+</body>
+<script>
+  let ctr = 1;
+  function deleteTodo(index) {
+    const element = document.getElementById(index);
+    element.parentNode.removeChild(element);
+  }
+
+  function addTodo() {
+    const inputEl = document.querySelector("input");
+    const value = inputEl.value;
+
+    const newDivEl = document.createElement("div");
+    newDivEl.setAttribute("id", ctr);
+    ctr = ctr + 1;
+    newDivEl.innerHTML = "<div>" + value + '</div><button onclick="deleteTodo(' + ctr + ')">delete</button>';
+
+    document.querySelector("body").appendChild(newDivEl)
+  }
+</script>
+
+</html>
+```

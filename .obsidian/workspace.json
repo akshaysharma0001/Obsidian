@@ -11,14 +11,12 @@
             "id": "94d7f419f33d632a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "WebDev/Web dev Syllabus.md",
-                "mode": "source",
-                "source": false
+                "file": "images_(9).jpeg"
               },
-              "icon": "lucide-file",
-              "title": "Web dev Syllabus"
+              "icon": "lucide-image",
+              "title": "images_(9)"
             }
           }
         ]
@@ -103,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WebDev/Web dev Syllabus.md",
+                "file": "images_(9).jpeg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/Web dev Syllabus.md",
+                "file": "images_(9).jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,19 +266,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Import notes": false
     }
   },
   "active": "94d7f419f33d632a",
   "lastOpenFiles": [
-    "Class Notes/Full stack/Full stack syllabus.md",
+    "0_nUH_J9JBLccyeW_A.jpg",
     "WebDev/Web dev Syllabus.md",
-    "WebDev",
-    "Class Notes/Full stack",
-    "Class Notes/dotnet notes/Introduction.md",
-    "Class Notes/Untitled.md",
-    "Class Notes/dotnet notes",
-    "MCA notes.md",
-    "Class Notes"
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Untitled.md",
+    "Screenshot_2024-08-31_at_7.45.08_PM.png",
+    "Screenshot_2024-08-31_at_7.42.39_PM.png",
+    "Screenshot_2024-08-31_at_7.40.59_PM.png",
+    "Screenshot_2024-08-31_at_7.37.08_PM.png",
+    "Screenshot_2024-08-31_at_7.36.42_PM.png",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/cors - Cross origin resource sharing.md",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Commonly used middlewares.md",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Assignments on middleware.md",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Route specific middlewares.md",
+    "Screenshot_2024-08-31_at_7.17.08_PM.png",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Middlewares.md",
+    "Screenshot_2024-08-31_at_7.13.02_PM.png",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Create an HTTP Server.md",
+    "Screenshot_2024-08-31_at_6.59.39_PM.png",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Fetch API.md",
+    "Screenshot_2024-08-31_at_6.52.34_PM.png",
+    "Screenshot_2024-08-31_at_6.49.59_PM.png",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Headers.md",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Recap.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Untitled.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Writing HTTP code in js.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Clients (Postman-curl-browser).md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Do we understand the following now.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Headers.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Routes.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Body.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Status codes.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Response.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Methods.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Ports.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Domain name-IP.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Request Response model.md",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP/Why the HTTP Protocol.md",
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive",
+    "WebDev/Webdev Notes/Week4/Intro to HTTP",
+    "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
+    "WebDev/Webdev Notes/Week3/DOM Part 2",
+    "WebDev/Webdev Notes/Week3/DOM Manipulation",
+    "WebDev/Webdev Notes/Week2/Promises, async, await",
+    "WebDev/Webdev Notes/Week2/Async js",
+    "WebDev/Webdev Notes/Week1/Javascript",
+    "WebDev/Webdev Notes/Week1/Orientation",
+    "WebDev/Webdev Notes/Week5"
   ]
 }

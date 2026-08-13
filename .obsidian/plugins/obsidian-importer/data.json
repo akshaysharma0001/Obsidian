@@ -1,0 +1,20 @@
+{
+  "secrets": {},
+  "outputLocations": {},
+  "outputSettings": {
+    "notion": {
+      "folder": "WebDev",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "update",
+      "saveSourceId": false
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {
+    "notion": "C:\\Users\\User\\Downloads"
+  },
+  "lastSourceFolder": "C:\\Users\\User\\Downloads"
+}
