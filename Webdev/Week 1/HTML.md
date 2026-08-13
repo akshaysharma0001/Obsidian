@@ -28,3 +28,8 @@ Elements /tags
 - add border - `table,th,td { border:1px solid black; }`
 - adjust column width -`<th style="width: 20%;">Name</th>`
 
+
+![[Pasted image 20260813195836.png]]
+
+- Code ->
+	- 
