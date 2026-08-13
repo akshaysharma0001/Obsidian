@@ -103,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Webdev/Week 1/HTML.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 344.70001220703125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -275,7 +276,7 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "b6f2358d37228ac3",
+  "active": "94d7f419f33d632a",
   "lastOpenFiles": [
     "Webdev/Week 1/HTML.md",
     "Webdev/Week 1",
