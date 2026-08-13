@@ -26,4 +26,5 @@ Elements /tags
 - td - table data
 - tr -table row
 - add border - `table,th,td { border:1px solid black; }`
-- 
+- adjust column width -`<th style="width: 20%;">Name</th>`
+
