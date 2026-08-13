@@ -3,7 +3,7 @@
 |                                                   |                                            |                                               |
 | ------------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | Easy                                              | Medium                                     | Hard                                          |
-| HTML                                              |                                            |                                               |
+| [[HTML]]                                          |                                            |                                               |
 | CSS                                               |                                            |                                               |
 | Bash basics (cd, ls, pwd, mkdir, touch, vi)       |                                            |                                               |
 |                                                   | Bash medium (grep, piping, reverse search) |                                               |

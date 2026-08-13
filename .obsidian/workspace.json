@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Web dev syllabus.md",
+                "file": "Webdev/Week 1/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web dev syllabus"
+              "title": "HTML"
             }
           }
         ]
@@ -103,9 +103,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Webdev/Web dev syllabus.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -127,7 +126,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.5087618855792582,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
@@ -276,10 +275,12 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "cfc38a0a406da63a",
+  "active": "b6f2358d37228ac3",
   "lastOpenFiles": [
-    "Webdev/Devops syllabus.md",
+    "Webdev/Week 1/HTML.md",
+    "Webdev/Week 1",
     "Webdev/Web dev syllabus.md",
+    "Webdev/Devops syllabus.md",
     "Class Notes/Full stack/Full stack syllabus.md",
     "Webdev",
     "Class Notes/dotnet notes/Introduction.md",
@@ -313,8 +314,6 @@
     "Screenshot_2024-08-31_at_6.59.39_PM.png",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Fetch API.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Headers.md",
-    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Recap.md",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP/Untitled.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
     "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
@@ -322,7 +321,6 @@
     "WebDev/Webdev Notes/Week3/DOM Manipulation",
     "WebDev/Webdev Notes/Week2/Promises, async, await",
     "WebDev/Webdev Notes/Week2/Async js",
-    "WebDev/Webdev Notes/Week1/Javascript",
-    "WebDev/Webdev Notes/Week1/Orientation"
+    "WebDev/Webdev Notes/Week1/Javascript"
   ]
 }
