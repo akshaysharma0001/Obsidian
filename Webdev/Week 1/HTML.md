@@ -24,11 +24,6 @@ Elements /tags
 ### Table
 - th- table heading
 - td - table data
-- tr -table ro
-- code -> `<table>  
-  <tr>  
-    <td>Emil</td>  
-    <td>Tobias</td>  
-    <td>Linus</td>  
-  </tr>  
-</table>
+- tr -table row
+- add border - `table,th,td { border:1px solid black; }`
+- 
