@@ -8,6 +8,5 @@
 			p    {color: red;}  
 		</style>
 - ==External CSS== -> `<link rel="stylesheet" href="styles.css">`
-- 
 
 
