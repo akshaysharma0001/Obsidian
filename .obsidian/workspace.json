@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dee2d53a0dfde10a",
+            "id": "2fe840334f0d7204",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Class Notes/dotnet notes/Generic Classes.md",
+                "bFile": "Class Notes/dotnet notes/Generic Classes.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Generic Classes  (Index)"
             }
           }
         ]
@@ -200,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +221,12 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "dee2d53a0dfde10a",
+  "active": "2fe840334f0d7204",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Webdev/Week 1/Pasted image 20260813195836.png",
+    "Webdev/Pasted image 20260813195916.png",
+    "Class Notes/dotnet notes/Introduction.md",
     "Class Notes/dotnet notes/Dot Net Syllabus.md",
     "Class Notes/dotnet notes/Class assignment 1.md",
     "Class Notes/dotnet notes/Generic Classes.md",
@@ -228,10 +236,8 @@
     "Webdev/Week 1/HTML.md",
     "Webdev/Week 1/Table example.png",
     "Class Notes/Full stack/Full stack syllabus.md",
-    "Pasted image 20260813195916.png",
     "Webdev/Week 1",
     "Webdev",
-    "Class Notes/dotnet notes/Introduction.md",
     "WebDev/Webdev Notes/Week1/Orientation/Good things to hash out.md",
     "WebDev/Webdev Notes/Week1/Orientation/CSS.md",
     "WebDev/Webdev Notes/Week1/Orientation/Avoid the spikes.md",
@@ -255,8 +261,6 @@
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Commonly used middlewares.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Assignments on middleware.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Route specific middlewares.md",
-    "Screenshot_2024-08-31_at_7.17.08_PM.png",
-    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Middlewares.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
     "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
