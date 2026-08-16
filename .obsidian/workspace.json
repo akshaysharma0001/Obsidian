@@ -11,15 +11,14 @@
             "id": "2fe840334f0d7204",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Class Notes/dotnet notes/Generic Classes.md",
-                "bFile": "Class Notes/dotnet notes/Generic Classes.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Webdev/Week 1/CSS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Generic Classes  (Index)"
+              "icon": "lucide-file",
+              "title": "CSS"
             }
           }
         ]
@@ -223,16 +222,16 @@
   },
   "active": "2fe840334f0d7204",
   "lastOpenFiles": [
+    "Webdev/Web dev syllabus.md",
+    "Webdev/Devops syllabus.md",
+    "Webdev/Pasted image 20260813195916.png",
     "conflict-files-obsidian-git.md",
     "Webdev/Week 1/Pasted image 20260813195836.png",
-    "Webdev/Pasted image 20260813195916.png",
     "Class Notes/dotnet notes/Introduction.md",
     "Class Notes/dotnet notes/Dot Net Syllabus.md",
     "Class Notes/dotnet notes/Class assignment 1.md",
     "Class Notes/dotnet notes/Generic Classes.md",
     "Webdev/Week 1/CSS.md",
-    "Webdev/Web dev syllabus.md",
-    "Webdev/Devops syllabus.md",
     "Webdev/Week 1/HTML.md",
     "Webdev/Week 1/Table example.png",
     "Class Notes/Full stack/Full stack syllabus.md",
@@ -260,7 +259,6 @@
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/cors - Cross origin resource sharing.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Commonly used middlewares.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Assignments on middleware.md",
-    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Route specific middlewares.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
     "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
