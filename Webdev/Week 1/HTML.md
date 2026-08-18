@@ -29,7 +29,7 @@ Elements /tags
 - adjust column width -`<th style="width: 20%;">Name</th>`
 
 
-![[Pasted image 20260813195836.png]]
+![[table demo.png]]
 
 - Code ->
 	- 
