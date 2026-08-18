@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b2e096fec24b418",
+        "id": "bb6df7dc439f2efe",
         "type": "tabs",
         "children": [
           {
-            "id": "2fe840334f0d7204",
+            "id": "3eda8f0e08aba53b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Web dev syllabus"
             }
+          },
+          {
+            "id": "b04029d0ed5122fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/Week 1/Javascript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,11 +235,13 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "2fe840334f0d7204",
+  "active": "cfc38a0a406da63a",
   "lastOpenFiles": [
+    "Webdev/Week 1/Javascript.md",
+    "Webdev/Web dev syllabus.md",
+    "Webdev/Week 1/Javascript.md",
     "Webdev/Pasted image 20260813195916.png",
     "Webdev/Week 1/CSS.md",
-    "Webdev/Web dev syllabus.md",
     "Webdev/Devops syllabus.md",
     "conflict-files-obsidian-git.md",
     "Webdev/Week 1/Pasted image 20260813195836.png",
@@ -258,7 +275,6 @@
     "Screenshot_2024-08-31_at_7.36.42_PM.png",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/cors - Cross origin resource sharing.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive/Commonly used middlewares.md",
-    "WebDev/Webdev Notes/Week5/HTTP Deep dive/Assignments on middleware.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
     "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",

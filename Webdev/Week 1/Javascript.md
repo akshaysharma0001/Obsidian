@@ -1,0 +1,2 @@
+- Node.js is an open-source `JS runtime` that allows you to execute JavaScript code on the server side. It’s built on Chrome's V8 JavaScript engine.
+- The ==V8 engine== is an open-source JavaScript engine developed by Google. It is used to execute JavaScript code in various environments, most notably in the Google Chrome web browser
