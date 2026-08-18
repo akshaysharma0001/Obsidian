@@ -14,11 +14,7 @@
 			`name: "Akshay",`
 			`age: 19`
 			`}`
-
-
-
-
-console.log("Harkirats age is " + user.age);`
+`console.log("Harkirats age is " + user.age);`
 
 
 
