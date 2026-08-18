@@ -8,6 +8,18 @@
 
 - The ==V8 engine== is an open-source JavaScript engine developed by Google. It is used to execute JavaScript code in various environments, most notably in the Google Chrome web browser
 
+### Objects
+- An object in JavaScript is a collection of `key-value pairs`, where each `key` is a string and each `value` can be any valid JavaScript data type, including another object.
+- `let user = {`
+			`name: "Akshay",`
+			`age: 19`
+			`}`
+
+
+
+
+console.log("Harkirats age is " + user.age);`
+
 
 
 ![[package json file.png]]
