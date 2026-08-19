@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/Full stack/Snake ladder game.md",
+                "file": "DSA/Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snake ladder game"
+              "title": "Hashing"
             }
           },
           {
@@ -234,8 +234,10 @@
   },
   "active": "3eda8f0e08aba53b",
   "lastOpenFiles": [
-    "Webdev/Week 1/Javascript.md",
     "Class Notes/Full stack/Snake ladder game.md",
+    "DSA/Hashing.md",
+    "DSA",
+    "Webdev/Week 1/Javascript.md",
     "Webdev/Week 1/table demo.png",
     "Webdev/Week 1/package json file.png",
     "Webdev/Web dev syllabus.md",
@@ -277,7 +279,6 @@
     "WebDev/Webdev Notes/Week3/DOM Part 2",
     "WebDev/Webdev Notes/Week3/DOM Manipulation",
     "WebDev/Webdev Notes/Week2/Promises, async, await",
-    "WebDev/Webdev Notes/Week2/Async js",
-    "WebDev/Webdev Notes/Week1/Javascript"
+    "WebDev/Webdev Notes/Week2/Async js"
   ]
 }
