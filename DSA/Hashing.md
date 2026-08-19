@@ -11,10 +11,10 @@
 				
 				System.out.println(seen);
 - Important operations-
-	- seen.add(5);           // Add
-	- seen.contains(5);      // Check if exists
-	- seen.remove(5);        // Remove
-	- seen.size();           // Number of elements
+	- `seen.add(5); `          // Add
+	- `seen.contains(5); `     // Check if exists
+	- `seen.remove(5);`        // Remove
+	- `seen.size();`           // Number of elements
 
 
 - `count.put(num, count.getOrDefault(num, 0) + 1);`
@@ -22,9 +22,6 @@
 
 - Code 
 			`int[] nums = {1, 1, 2, 3, 2, 1};`
-			
-			Map<Integer, Integer> count = new HashMap<>();
-			
-			for (int num : nums) {
-			    count.put(num, count.getOrDefault(num, 0) + 1);
-			}
+			`Map<Integer, Integer> count = new HashMap<>();
+			`for (int num : nums)
+			    `count.put(num, count.getOrDefault(num, 0) + 1);
