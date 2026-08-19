@@ -1,0 +1,3 @@
+- React is a front-end JavaScript library
+- ==**npm is a package manager used to install and maintain dependencies, while npx is a package runner used to execute packages directly without permanent installation.**== 
+- 

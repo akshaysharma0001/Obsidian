@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Hashing.md",
+                "file": "Class Notes/Full stack/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashing"
-            }
-          },
-          {
-            "id": "b04029d0ed5122fe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Webdev/Week 1/package json file.png"
-              },
-              "icon": "lucide-image",
-              "title": "package json file"
+              "title": "React"
             }
           }
         ]
@@ -95,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125
+    "width": 344.70001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -216,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,8 +224,10 @@
   },
   "active": "3eda8f0e08aba53b",
   "lastOpenFiles": [
-    "Class Notes/Full stack/Snake ladder game.md",
+    "Class Notes/Full stack/Full stack syllabus.md",
+    "Class Notes/Full stack/React.md",
     "DSA/Hashing.md",
+    "Class Notes/Full stack/Snake ladder game.md",
     "DSA",
     "Webdev/Week 1/Javascript.md",
     "Webdev/Week 1/table demo.png",
@@ -251,7 +243,6 @@
     "Class Notes/dotnet notes/Generic Classes.md",
     "Webdev/Week 1/HTML.md",
     "Webdev/Week 1/Table example.png",
-    "Class Notes/Full stack/Full stack syllabus.md",
     "Webdev/Week 1",
     "Webdev",
     "WebDev/Webdev Notes/Week1/Orientation/Good things to hash out.md",
@@ -272,7 +263,6 @@
     "Screenshot_2024-08-31_at_7.42.39_PM.png",
     "Screenshot_2024-08-31_at_7.40.59_PM.png",
     "Screenshot_2024-08-31_at_7.37.08_PM.png",
-    "WebDev/Webdev Notes/Week5/HTTP Deep dive/cors - Cross origin resource sharing.md",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
     "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
