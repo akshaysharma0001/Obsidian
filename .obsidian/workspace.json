@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/Full stack/React.md",
+                "file": "Webdev/Week 1/Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Javascript"
             }
           }
         ]
@@ -224,8 +224,10 @@
   },
   "active": "3eda8f0e08aba53b",
   "lastOpenFiles": [
-    "Class Notes/Full stack/Full stack syllabus.md",
+    "Webdev/Week 1/HTML.md",
+    "Webdev/Week 1/CSS.md",
     "Class Notes/Full stack/React.md",
+    "Class Notes/Full stack/Full stack syllabus.md",
     "DSA/Hashing.md",
     "Class Notes/Full stack/Snake ladder game.md",
     "DSA",
@@ -234,14 +236,12 @@
     "Webdev/Week 1/package json file.png",
     "Webdev/Web dev syllabus.md",
     "Webdev/Pasted image 20260813195916.png",
-    "Webdev/Week 1/CSS.md",
     "Webdev/Devops syllabus.md",
     "conflict-files-obsidian-git.md",
     "Class Notes/dotnet notes/Introduction.md",
     "Class Notes/dotnet notes/Dot Net Syllabus.md",
     "Class Notes/dotnet notes/Class assignment 1.md",
     "Class Notes/dotnet notes/Generic Classes.md",
-    "Webdev/Week 1/HTML.md",
     "Webdev/Week 1/Table example.png",
     "Webdev/Week 1",
     "Webdev",
