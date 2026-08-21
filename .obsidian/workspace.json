@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 1/Javascript.md",
+                "file": "Webdev/Week 1/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript"
+              "title": "HTML"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125,
-    "collapsed": true
+    "width": 344.70001220703125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -224,14 +223,14 @@
   },
   "active": "3eda8f0e08aba53b",
   "lastOpenFiles": [
-    "Webdev/Week 1/HTML.md",
     "Webdev/Week 1/CSS.md",
+    "Webdev/Week 1/HTML.md",
+    "Webdev/Week 1/Javascript.md",
     "Class Notes/Full stack/React.md",
     "Class Notes/Full stack/Full stack syllabus.md",
     "DSA/Hashing.md",
     "Class Notes/Full stack/Snake ladder game.md",
     "DSA",
-    "Webdev/Week 1/Javascript.md",
     "Webdev/Week 1/table demo.png",
     "Webdev/Week 1/package json file.png",
     "Webdev/Web dev syllabus.md",
