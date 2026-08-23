@@ -36,4 +36,25 @@ console.log(contents);
 
 ```  
 
+- *CPU-bound tasks* are operations that are limited by the speed and power of the CPU. These tasks require significant computation and processing power, meaning that the performance bottleneck is the CPU itself. ex-loops
+#### Async readFile function
 
+```
+const fs = require("fs");
+
+fs.readFile("a.txt", "utf-8", function (err, contents) {
+  console.log(contents);
+});
+
+fs.readFile("b.txt", "utf-8", function (err, contents) {
+  console.log(contents);
+});
+
+fs.readFile("a.txt", "utf-8", function (err, contents) {
+  console.log(contents);
+});
+
+```
+
+## Functional arguments
+- Function passed as a function
