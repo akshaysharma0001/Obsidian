@@ -9,7 +9,7 @@
 |                                                    | Bash medium (grep, piping, reverse search) |                                               |
 | Git/Github                                         |                                            |                                               |
 | [[Javascript]] Intro, Single threaded nature of JS |                                            |                                               |
-|                                                    | [[Async JS]], callback queue, event loop   |                                               |
+|                                                    | [[Async JS]], [[JS architecture]]          |                                               |
 |                                                    |                                            | Creating promises, Common Promise API methods |
 | Common JS APIs (map, filter, reduce, Object.keys)  |                                            |                                               |
 

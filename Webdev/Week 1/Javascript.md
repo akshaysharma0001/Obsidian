@@ -51,7 +51,6 @@ The format is as follows - `MAJOR.MINOR.PATCH`
 - The `package-lock.json` records the exact versions of all dependencies and their dependencies (sub-dependencies) that are installed at the time when `npm install` was run.
 
 
-### Classes
 
 
 

@@ -1,7 +1,7 @@
 ### Synchronous code
 - Synchronous code is executed line by line, in the order it's written. Each operation waits for the previous one to complete before moving on to the next one.
 
-```
+```javascript
 - function sum(n) {
 	let ans = 0;
 	for (let i = 1; i <= n; i++) {
@@ -29,7 +29,7 @@ console.log(ans3);
 
 - `require` statement lets you import code/functions export from another file/module
 
-```
+```javascript
 const fs = require("fs");
 const contents = fs.readFileSync("a.txt", "utf-8");
 console.log(contents);
@@ -39,7 +39,7 @@ console.log(contents);
 - *CPU-bound tasks* are operations that are limited by the speed and power of the CPU. These tasks require significant computation and processing power, meaning that the performance bottleneck is the CPU itself. ex-loops
 #### Async readFile function
 
-```
+```javascript
 const fs = require("fs");
 
 fs.readFile("a.txt", "utf-8", function (err, contents) {
@@ -58,3 +58,26 @@ fs.readFile("a.txt", "utf-8", function (err, contents) {
 
 ## Functional arguments
 - Function passed as a function
+```javascript
+function sum(a,b){
+    return a+b
+}
+
+function sub(a,b){
+    return a-b
+}
+
+function mult(a,b){
+    return a*b
+}
+
+function doOperation(a,b,op){
+    return op(a,b)
+}
+
+console.log(doOperation(10,20,sum))
+
+console.log(doOperation(10,20,sub))
+
+console.log(doOperation(10,20,mult))
+```
