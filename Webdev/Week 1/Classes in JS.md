@@ -58,5 +58,9 @@ console.log(area)
 - Special methods that allow you to define how properties are accessed and modified.
 
 #### Maps class
-```
+```javascript
+const map = new Map();
+map.set('name', 'Alice');
+map.set('age', 30);
+console.log(map.get('name'));
 ```

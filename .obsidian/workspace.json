@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 1/Classes in JS.md",
+                "file": "Webdev/Week 2/Promises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes in JS"
+              "title": "Promises"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/Week 1/Classes in JS.md",
+                "file": "Webdev/Week 2/Promises.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -273,8 +273,8 @@
   },
   "active": "64a5f7c05f24b60e",
   "lastOpenFiles": [
-    "Inheritance.md",
     "Webdev/Week 1/Classes in JS.md",
+    "Inheritance.md",
     "Webdev/Week 1/Javascript.md",
     "Class Notes/Full stack/Full stack syllabus.md",
     "Webdev/Web dev syllabus.md",
