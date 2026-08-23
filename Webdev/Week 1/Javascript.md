@@ -21,7 +21,7 @@ function canVote(age)
     }
 }
 ```
-### Classes in JS
+
 #### Primitive types
 1. number
 2. string
