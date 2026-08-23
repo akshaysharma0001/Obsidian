@@ -8,9 +8,7 @@ Elements /tags
 	- `<i>` - Italic text
 	- `<em>` - Emphasized text -its like italics
 	- `<mark>` - Marked text -highlighted
-	- `<small>` - Smaller text
 	- `<del>` - Deleted text -strike through
-	- `<ins>` - Inserted text -underlined
 	- `<sub>` - Subscript text
 	- `<sup>` - Superscript text
 	- `<a>`- > `<a href="_url_">_link text_</a>`

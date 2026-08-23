@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Web dev syllabus.md",
+                "file": "Webdev/Week 1/CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web dev syllabus"
+              "title": "CSS"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/Web dev syllabus.md",
+                "file": "Webdev/Week 1/CSS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,12 +222,14 @@
   },
   "active": "334a0b59e19b5486",
   "lastOpenFiles": [
-    "Webdev/Week 1/HTML.md",
+    "Webdev/Week 1/Javascript.md",
     "Webdev/Web dev syllabus.md",
+    "Webdev/table.png",
+    "Webdev/Week 1/CSS.md",
+    "Webdev/Week 1/flexbox.png",
+    "Webdev/Week 1/HTML.md",
     "Info/Psychology of Discipline (And How to Trick Your Brain Into Craving It).md",
     "Info",
-    "Webdev/Week 1/CSS.md",
-    "Webdev/Week 1/Javascript.md",
     "Class Notes/Full stack/React.md",
     "Class Notes/Full stack/Full stack syllabus.md",
     "DSA/Hashing.md",
@@ -235,7 +237,6 @@
     "DSA",
     "Webdev/Week 1/table demo.png",
     "Webdev/Week 1/package json file.png",
-    "Webdev/Pasted image 20260813195916.png",
     "Webdev/Devops syllabus.md",
     "conflict-files-obsidian-git.md",
     "Class Notes/dotnet notes/Introduction.md",
@@ -257,11 +258,9 @@
     "WebDev/Webdev Notes.md",
     "images_(9).jpeg",
     "0_nUH_J9JBLccyeW_A.jpg",
-    "WebDev/Web dev Syllabus.md",
     "Screenshot_2024-08-31_at_7.45.08_PM.png",
     "Screenshot_2024-08-31_at_7.42.39_PM.png",
     "Screenshot_2024-08-31_at_7.40.59_PM.png",
-    "Screenshot_2024-08-31_at_7.37.08_PM.png",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
     "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
