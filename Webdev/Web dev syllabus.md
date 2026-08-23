@@ -31,15 +31,15 @@
 
 ## Node.js/Bun/Cloudflare Runtime - Various JS runtimes
 
-|   |   |   |
-|---|---|---|
-|easy|medium|hard|
-|What is a JS runtime|||
-|Node.js installation, common APIs|||
-|file system api, fetch.|||
-|External packages, axios vs fetch|||
-||v8, cf runtime||
-|||stream, worker threads, cluster module,|
+|                                            |                |                                         |
+| ------------------------------------------ | -------------- | --------------------------------------- |
+| easy                                       | medium         | hard                                    |
+| What is a JS runtime                       |                |                                         |
+| Node.js installation, common APIs, [[NPM]] |                |                                         |
+| file system api, fetch.                    |                |                                         |
+| External packages, axios vs fetch          |                |                                         |
+|                                            | v8, cf runtime |                                         |
+|                                            |                | stream, worker threads, cluster module, |
 
 ## HTTP Servers
 

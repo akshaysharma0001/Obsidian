@@ -27,3 +27,5 @@ The format is as follows - `MAJOR.MINOR.PATCH`
 - `"chalk": "latest"` - Will install the latest version
 
 - The `package-lock.json` records the exact versions of all dependencies and their dependencies (sub-dependencies) that are installed at the time when `npm install` was run.
+
+![[package json file.png]]
