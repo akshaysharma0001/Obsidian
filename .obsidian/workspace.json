@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 4/NPM.md",
+                "file": "Webdev/Week 4/Assignment - CLI file cleaner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPM"
+              "title": "Assignment - CLI file cleaner"
             }
           },
           {
@@ -246,8 +246,9 @@
   },
   "active": "e5f7f2b23ec9df33",
   "lastOpenFiles": [
-    "Webdev/Week 4/HTTP.md",
     "Webdev/Week 4/NPM.md",
+    "Webdev/Week 4/Assignment - CLI file cleaner.md",
+    "Webdev/Week 4/HTTP.md",
     "Webdev/Web dev syllabus.md",
     "Webdev/Week 4",
     "Webdev/Week 3/Bash.md",
@@ -286,7 +287,6 @@
     "Webdev/Week 1/Table example.png",
     "Webdev/Week 1",
     "Webdev",
-    "WebDev/Webdev Notes/Week1/Orientation/Good things to hash out.md",
     "images_(9).jpeg",
     "0_nUH_J9JBLccyeW_A.jpg",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
