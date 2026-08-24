@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Web dev syllabus.md",
+                "file": "Webdev/Week 4/NPM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web dev syllabus"
+              "title": "NPM"
             }
           },
           {
@@ -246,8 +246,11 @@
   },
   "active": "e5f7f2b23ec9df33",
   "lastOpenFiles": [
-    "Webdev/Week 3/Bash.md",
+    "Webdev/Week 4/HTTP.md",
+    "Webdev/Week 4/NPM.md",
     "Webdev/Web dev syllabus.md",
+    "Webdev/Week 4",
+    "Webdev/Week 3/Bash.md",
     "Webdev/Week 3",
     "Webdev/Week 1/Classes in JS.md",
     "Webdev/Week 3/DOM.md",
@@ -257,7 +260,6 @@
     "Webdev/Week 2/Inheritance.md",
     "Webdev/Week 1/Javascript.md",
     "Class Notes/Full stack/Full stack syllabus.md",
-    "Webdev/Week 1/NPM.md",
     "Webdev/Devops syllabus.md",
     "Webdev/Week 2/JS architecture.md",
     "Webdev/Week 2/Js arch.png",
@@ -285,12 +287,10 @@
     "Webdev/Week 1",
     "Webdev",
     "WebDev/Webdev Notes/Week1/Orientation/Good things to hash out.md",
-    "WebDev/Webdev Notes/Week1/Orientation/CSS.md",
     "images_(9).jpeg",
     "0_nUH_J9JBLccyeW_A.jpg",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
     "WebDev/Webdev Notes/Week4/Intro to HTTP",
-    "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes",
-    "WebDev/Webdev Notes/Week3/DOM Part 2"
+    "WebDev/Webdev Notes/Week4/Node js, Bun and JS runtimes"
   ]
 }

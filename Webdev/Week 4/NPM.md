@@ -29,3 +29,17 @@ The format is as follows - `MAJOR.MINOR.PATCH`
 - The `package-lock.json` records the exact versions of all dependencies and their dependencies (sub-dependencies) that are installed at the time when `npm install` was run.
 
 ![[package json file.png]]
+
+# package-lock.json
+The `package-lock.json` records the exact versions of all dependencies and their dependencies (sub-dependencies) that are installed at the time when `npm install` was run.
+
+**Consistency**: By locking down these versions, `package-lock.json` ensures that every time someone installs dependencies (e.g., by running `npm install`), they get the exact same versions of packages. This prevents discrepancies that can arise from different versions being installed in different environments.
+
+## V8 engine?
+The V8 engine is an open-source JavaScript engine developed by Google. It is used to execute JavaScript code in various environments, most notably in the Google Chrome web browser.
+
+# Internal packages
+Node.js provides you some `packages` out of the box. Some common ones include
+1. fs - Filesystem
+2. path - Path related functions
+3. http - Create HTTP Servers
