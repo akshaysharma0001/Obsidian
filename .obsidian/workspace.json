@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash.md",
+                "file": "Webdev/Week 3/Bash.md",
                 "mode": "source",
                 "source": false
               },
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125,
-    "collapsed": true
+    "width": 344.70001220703125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -245,9 +244,9 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "d012ab0499ba25aa",
+  "active": "e5f7f2b23ec9df33",
   "lastOpenFiles": [
-    "Bash.md",
+    "Webdev/Week 3/Bash.md",
     "Webdev/Web dev syllabus.md",
     "Webdev/Week 3",
     "Webdev/Week 1/Classes in JS.md",
