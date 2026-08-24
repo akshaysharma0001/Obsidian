@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 2/Async Await.md",
+                "file": "Webdev/Week 2/DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Async Await"
+              "title": "DOM"
             }
           },
           {
@@ -275,8 +275,9 @@
   },
   "active": "767ad91e187a9cf6",
   "lastOpenFiles": [
-    "Webdev/Week 2/Async Await.md",
     "Webdev/Web dev syllabus.md",
+    "Webdev/Week 2/DOM.md",
+    "Webdev/Week 2/Async Await.md",
     "Webdev/Week 2/Promises.md",
     "Webdev/Week 2/Promise calling.png",
     "Webdev/Week 1/Classes in JS.md",
@@ -291,7 +292,6 @@
     "Webdev/Week 1/grid.png",
     "Webdev/Week 1/CSS.md",
     "Webdev/Week 2/Async JS.md",
-    "Webdev/Week 2/Untitled.md",
     "Webdev/Week 2",
     "Webdev/table.png",
     "Webdev/Week 1/flexbox.png",
