@@ -5,7 +5,7 @@
 | Easy                                               | Medium                                     | Hard                                                    |
 | [[HTML]]                                           |                                            |                                                         |
 | [[CSS]]                                            |                                            |                                                         |
-| Bash basics (cd, ls, pwd, mkdir, touch, vi)        |                                            |                                                         |
+| [[Bash]] basics (cd, ls, pwd, mkdir, touch, vi)    |                                            |                                                         |
 |                                                    | Bash medium (grep, piping, reverse search) |                                                         |
 | Git/Github                                         |                                            |                                                         |
 | [[Javascript]] Intro, Single threaded nature of JS |                                            |                                                         |
