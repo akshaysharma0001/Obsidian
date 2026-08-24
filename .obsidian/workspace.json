@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 4/Assignment - CLI file cleaner.md",
+                "file": "Webdev/Week 4/Assignment - CLI todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment - CLI file cleaner"
+              "title": "Assignment - CLI todo"
             }
           },
           {
@@ -246,8 +246,9 @@
   },
   "active": "e5f7f2b23ec9df33",
   "lastOpenFiles": [
-    "Webdev/Week 4/NPM.md",
     "Webdev/Week 4/Assignment - CLI file cleaner.md",
+    "Webdev/Week 4/Assignment - CLI todo.md",
+    "Webdev/Week 4/NPM.md",
     "Webdev/Week 4/HTTP.md",
     "Webdev/Web dev syllabus.md",
     "Webdev/Week 4",
@@ -283,7 +284,6 @@
     "Class Notes/dotnet notes/Introduction.md",
     "Class Notes/dotnet notes/Dot Net Syllabus.md",
     "Class Notes/dotnet notes/Class assignment 1.md",
-    "Class Notes/dotnet notes/Generic Classes.md",
     "Webdev/Week 1/Table example.png",
     "Webdev/Week 1",
     "Webdev",
