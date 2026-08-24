@@ -1,24 +1,15 @@
 ```javascript
 import chalk from 'chalk'
-
 import fs from 'fs'
-
 import {Command} from 'commander'
-
 const data=JSON.parse(fs.readFileSync("todos.json","utf-8"))
-
 let program =new Command()
 
-  
-
 program
-
     .name("cli-todo")
-
     .description("Cli todolist to add delete multiple tasks and store it in json file")
 
   
-
 program
     .command("show")
     .description("show todolist")
