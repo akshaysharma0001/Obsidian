@@ -17,4 +17,26 @@ setTimeoutPromisified(3000).then(callback)
 
 ```
 
+```javascript
+const fs=require('fs')
+function cleanFile(filename){
+    return new Promise((reject,resolve)=>{
+        let data=fs.readFile(filename,"utf-8",(err,data)=>{
+            if(err){
+                reject(err)
+            }
+            else{
+                data=data.trim()
+                resolve(data)
+            }
+        })
+    })
+}
+
+  
+
+cleanFile("x.txt").then((data)=>{console.log(data)}).catch((err)=>{console.log(err)})
+```
+
+
 ![[Promise calling.png]]
