@@ -8,6 +8,10 @@ HTTP headers are key-value pairs sent between a `client` (like a web browser) an
 
 ### Request headers
 The headers the `client` sends out in the request are known as request headers
+![[Pasted image 20260825180814.png]]
 
 ### Response headers
 The headers that the `server` responds with are known as the response headers.
+![[Pasted image 20260825180823.png]]
+
+

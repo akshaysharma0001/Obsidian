@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,6 +221,8 @@
   },
   "active": "e51848e7c793377c",
   "lastOpenFiles": [
+    "Pasted image 20260825180823.png",
+    "Pasted image 20260825180814.png",
     "Webdev/Week 4/Express basic.md",
     "Webdev/Week 5/HTTP Deep Dive.md",
     "Webdev/Week 4/Headers.md",
@@ -256,10 +259,8 @@
     "Webdev/Week 1/HTML.md",
     "Webdev/Week 1/grid.png",
     "Webdev/Week 1/CSS.md",
-    "Webdev/Week 2/Async JS.md",
     "Webdev/Week 2",
     "Webdev/table.png",
-    "Webdev/Week 1/flexbox.png",
     "Info",
     "DSA",
     "Webdev/Week 1",
