@@ -43,17 +43,17 @@
 
 ## HTTP Servers
 
-|   |   |   |   |
-|---|---|---|---|
-|Simple|Medium|Advance||
-|What are HTTP Servers||||
-|Methods, routes, URLs, IPs and domains||||
-||headers, body, query parameters|||
-||Intro to express, creating routes|||
-||Middlewares in express|||
-||File system like DBs|||
-||Authentication using jwts, basics of jwts|||
-||==Secret management using Doppler==|||
+|                                            |                                           |         |     |
+| ------------------------------------------ | ----------------------------------------- | ------- | --- |
+| Simple                                     | Medium                                    | Advance |     |
+| What are [[HTTP]] Servers                  |                                           |         |     |
+| [[Methods]], routes, URLs, IPs and domains |                                           |         |     |
+|                                            | headers, body, query parameters           |         |     |
+|                                            | Intro to express, creating routes         |         |     |
+|                                            | Middlewares in express                    |         |     |
+|                                            | File system like DBs                      |         |     |
+|                                            | Authentication using jwts, basics of jwts |         |     |
+|                                            | ==Secret management using Doppler==       |         |     |
 
 ### NoSQL Databases
 

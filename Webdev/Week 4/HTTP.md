@@ -24,6 +24,10 @@ The way to reach a sever is through its `Domain name` . For example
 Domain name - Phone contact
 IP - There real phone number
 
+# Ports
+ > In networking, **ports** are `logical` endpoints used by protocols to identify `specific processes` running on a computer or server. They help direct network traffic to the correct application or service on a system.
 
-- ![[Pasted image 20260825110142.png|692]]
+![[Ports.png]]
+
+- ![[Request respoonse.png|692]]
 

@@ -8,41 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9ffb91dd14df9ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "e5f7f2b23ec9df33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 4/HTTP.md",
+                "file": "Webdev/Web dev syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "Web dev syllabus"
             }
           },
           {
-            "id": "d012ab0499ba25aa",
+            "id": "41cc1e18548ce15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 3/Bash.md",
+                "file": "Webdev/Week 4/Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash"
+              "title": "Methods"
             }
           }
         ],
@@ -244,11 +234,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e5f7f2b23ec9df33",
+  "active": "41cc1e18548ce15b",
   "lastOpenFiles": [
     "Webdev/Web dev syllabus.md",
+    "Request respoonse.png",
+    "Class Notes/Full stack/Full stack syllabus.md",
+    "Webdev/Week 4/Methods.md",
     "Webdev/Week 4/HTTP.md",
-    "Pasted image 20260825110142.png",
+    "Webdev/Week 4/Ports.png",
     "Pasted image 20260825110125.png",
     "Webdev/Week 4/Assignment - CLI todo.md",
     "Webdev/Week 4/Assignment - CLI file cleaner.md",
@@ -263,7 +256,6 @@
     "Webdev/Week 2/Promise calling.png",
     "Webdev/Week 2/Inheritance.md",
     "Webdev/Week 1/Javascript.md",
-    "Class Notes/Full stack/Full stack syllabus.md",
     "Webdev/Devops syllabus.md",
     "Webdev/Week 2/JS architecture.md",
     "Webdev/Week 2/Js arch.png",
@@ -284,8 +276,6 @@
     "Webdev/Week 1/package json file.png",
     "conflict-files-obsidian-git.md",
     "Class Notes/dotnet notes/Introduction.md",
-    "Class Notes/dotnet notes/Dot Net Syllabus.md",
-    "Webdev/Week 1/Table example.png",
     "Webdev/Week 1",
     "Webdev",
     "WebDev/Webdev Notes/Week5/HTTP Deep dive",
