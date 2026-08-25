@@ -34,3 +34,4 @@ IP - There real phone number
 [[Methods]]
 [[Response]]
 [[Status Codes]]
+[[Body]]
