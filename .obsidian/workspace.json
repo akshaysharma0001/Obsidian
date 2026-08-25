@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 4/Express basic.md",
+                "file": "Webdev/Week 5/HTTP Deep Dive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express basic"
+              "title": "HTTP Deep Dive"
             }
           }
         ]
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +219,8 @@
   },
   "active": "e51848e7c793377c",
   "lastOpenFiles": [
-    "Webdev/Week 5/HTTP Deep Dive.md",
     "Webdev/Week 4/Express basic.md",
+    "Webdev/Week 5/HTTP Deep Dive.md",
     "Webdev/Week 4/Headers.md",
     "Webdev/Week 5",
     "Webdev/Web dev syllabus.md",
