@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 4/Assignment - CLI todo.md",
+                "file": "Webdev/Week 4/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment - CLI todo"
+              "title": "HTTP"
             }
           },
           {
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125
+    "width": 344.70001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -245,8 +246,8 @@
   },
   "active": "e5f7f2b23ec9df33",
   "lastOpenFiles": [
-    "Webdev/Week 4/Assignment - CLI file cleaner.md",
     "Webdev/Week 4/Assignment - CLI todo.md",
+    "Webdev/Week 4/Assignment - CLI file cleaner.md",
     "Webdev/Week 4/NPM.md",
     "Webdev/Week 4/HTTP.md",
     "Webdev/Web dev syllabus.md",
