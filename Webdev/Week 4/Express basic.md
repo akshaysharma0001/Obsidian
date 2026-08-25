@@ -59,3 +59,41 @@ app.listen(3000)
 
 //http:localhost:3000/a.txt
 ```
+
+**Todo list program using HTTP and express**
+
+```javascript
+import express from 'express'
+import fs from 'fs'
+const app=new express()
+
+let data=JSON.parse(fs.readFileSync("todo.json","utf-8"))
+app.use(express.json())
+app.get('/',(req,res)=>{
+    res.send(printtodo())
+    })
+
+app.post('/',(req,res)=>{
+    let task=req.body
+    data[data.length]=task
+    res.send("<h3>Task added Succesfully</h3>")
+    fs.writeFileSync("todo.json",JSON.stringify(data))
+})
+
+app.delete('/',(req,res)=>{
+    let i=JSON.stringify(req.body)
+    data.splice(data[i.num],1)
+    res.send("<h3>Delete succesfully</h3>")  
+})
+app.listen(3000,()=>{
+    console.log("http://localhost:3000/")
+})
+
+function printtodo(){
+    let list=""
+    for(let i=0;i<data.length;i++){
+        list+="<h3>"+(i+1)+". "+data[i].task+"</h3>"
+    }
+    return list
+}
+```
