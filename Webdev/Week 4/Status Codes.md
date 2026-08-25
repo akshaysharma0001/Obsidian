@@ -1,6 +1,6 @@
 HTTP status codes are three-digit numbers returned by a server to indicate the outcome of a client’s request. They provide information about the status of the request and the server's response.
 
-## 200 series (Success)
+### 200 series (Success)
 
 - **200 OK**: The request was successful, and the server returned the requested resource.
 - **204 No Content**: The request was successful, but there is no content to send in the response
