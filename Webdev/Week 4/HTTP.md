@@ -31,3 +31,6 @@ IP - There real phone number
 
 - ![[Request respoonse.png|692]]
 
+[[Methods]]
+[[Response]]
+[[Status Codes]]
