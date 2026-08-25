@@ -240,8 +240,7 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Import notes": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e5f7f2b23ec9df33",
