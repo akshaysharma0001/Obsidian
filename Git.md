@@ -94,3 +94,9 @@ git push origin master
 git config --global credential.helper manager
 
 adding ssh key to github account
+
+ssh-keygen -t rsa -b 4096 -C "akshaysharmas2305@gmail.com"
+
+cat githubssh.pub
+
+
