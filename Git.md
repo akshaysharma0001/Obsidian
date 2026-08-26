@@ -66,10 +66,21 @@ created by merging two branches.
 Clone: Bring a repository hosted somewhere like Github into a folder or your local
 machine
 
-Add: Track your files and changes in Git
+==Add==: Track your files and changes in Git
 
-Commit: Save your files in git
+==Commit==: Save your files in git
 
-Push: Upload your commits to a git repo, like GitHub
+==Push==: Upload your commits to a git repo, like GitHub
 
-Pull: Download changes from a remote repository to your local repository.
+==Pull==: Download changes from a remote repository to your local repository.
+
+ git config --global user.name "Akshay"
+ git config --global user.email "akshay@gmail"
+
+git init -initialize a folder
+
+git add .
+
+git rm --cached <file to unstage>
+
+git commit -m "Addi"
