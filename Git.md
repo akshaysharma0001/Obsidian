@@ -90,3 +90,7 @@ git remove -v to check if remote repo is configured or not
 git remote add origin https://github.com/akshaysharma0001/Demo.git
 
 git push origin master
+
+git config --global credential.helper manager
+
+adding ssh key to github account
