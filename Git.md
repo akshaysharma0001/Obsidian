@@ -101,3 +101,5 @@ git checkout  -b feature to create new branch
 git checkout master - to switch branch
 
 git diff main
+
+git push -u origin feature
