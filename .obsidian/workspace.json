@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Route specific middleware.md",
+                "file": "Webdev/Week 5/Route specific middleware.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commonly used middlewares.md",
+                "file": "Webdev/Week 5/Commonly used middlewares.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cors - Cross origin resource sharing.md",
+                "file": "Webdev/Week 5/cors - Cross origin resource sharing.md",
                 "mode": "source",
                 "source": false
               },
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125,
-    "collapsed": true
+    "width": 344.70001220703125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -262,11 +261,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63f7dca5e33cfaba",
+  "active": "cfc38a0a406da63a",
   "lastOpenFiles": [
-    "Commonly used middlewares.md",
-    "cors - Cross origin resource sharing.md",
-    "Route specific middleware.md",
+    "Webdev/Week 5/CORS.png",
+    "Webdev/Week 5/Commonly used middlewares.md",
+    "Webdev/Week 5/cors - Cross origin resource sharing.md",
+    "Webdev/Week 5/Route specific middleware.md",
     "Webdev/Week 5/Middlewares.md",
     "Webdev/Week 5/next.png",
     "Webdev/Week 5/Create HTTP Server.md",
@@ -300,7 +300,6 @@
     "Webdev/Week 3/Bash.md",
     "Webdev/Week 3",
     "Webdev/Week 1/Classes in JS.md",
-    "Webdev/Week 3/DOM.md",
     "Webdev/Week 2/Promise calling.png",
     "Webdev/Week 2/Js arch.png",
     "Webdev/Week 2",
