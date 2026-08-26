@@ -108,15 +108,3 @@
 - [ ] Week 38 | Helm — 1:17:33
 
 ---
-
-# DevOps Progress
-
-- [x] Bash and Terminal
-- [ ] Finish DevOps Foundations
-- [ ] Finish Docker
-- [ ] Finish CI/CD
-- [ ] Finish AWS & Scaling
-- [ ] Finish Monitoring
-- [ ] Finish Kubernetes
-- [ ] Finish GitOps
-- [ ] Finish Helm
