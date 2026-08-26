@@ -54,3 +54,5 @@ app.listen(3000);
 ```
 
 > You dont need cors if the frontend and backend are on the same domain
+
+![[Pasted image 20260826153725.png]]
