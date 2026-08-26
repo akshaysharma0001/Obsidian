@@ -48,19 +48,9 @@
               "icon": "lucide-file",
               "title": "Commonly used middlewares"
             }
-          },
-          {
-            "id": "63f7dca5e33cfaba",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,7 +247,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63f7dca5e33cfaba",
+  "active": "63da4515bcd115d1",
   "lastOpenFiles": [
     "Webdev/Week 5/cors - Cross origin resource sharing.md",
     "Webdev/Week 5/cors from postman.png",
