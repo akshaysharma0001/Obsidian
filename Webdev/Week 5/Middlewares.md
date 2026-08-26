@@ -4,6 +4,7 @@
 2. Ending the request-response cycle.
 3. Calling the next middleware function in the stack.
 
+**Calling next middleware function in stack**
 ```javascript
 app.use(function(req, res, next) {
     console.log("request received");
@@ -26,7 +27,7 @@ app.get("/sum", function(req, res) {
 **Modifying request**
 ```javascript
 app.use(function(req, res, next) {
-    req.name = "harkirat"
+    req.name = "Akshay"
     next();
 })
 
@@ -40,4 +41,26 @@ app.get("/sum", function(req, res) {
     })
 });
 ```
+
+**Ending req res cycle**
+
+```javascript
+app.use(function(req, res, next) {
+    res.json({
+        message: "You are not allowed"
+    })
+})
+
+app.get("/sum", function(req, res) {
+    console.log(req.name);
+    const a = parseInt(req.query.a);
+    const b = parseInt(req.query.b);
+
+    res.json({
+        ans: a + b
+    })
+});
+```
+
+
 
