@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "b10d28f67653ba50",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Webdev/Week 5/next.png"
-              },
-              "icon": "lucide-image",
-              "title": "next"
-            }
-          },
-          {
             "id": "58e2a2eba74b5e76",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "Route specific middleware"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,10 +233,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "58e2a2eba74b5e76",
+  "active": "e51848e7c793377c",
   "lastOpenFiles": [
-    "Webdev/Week 5/next.png",
     "Route specific middleware.md",
+    "Webdev/Week 5/next.png",
     "Webdev/Week 5/Middlewares.md",
     "Webdev/Week 5/Create HTTP Server.md",
     "Webdev/Week 5/Fetch API.md",
