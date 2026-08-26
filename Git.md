@@ -83,4 +83,10 @@ git add .
 
 git rm --cached <file to unstage>
 
-git commit -m "Addi"
+git commit -m "Adding demo file "
+
+git remove -v to check if remote repo is configured or not
+
+git remote add origin https://github.com/akshaysharma0001/Demo.git
+
+git push origin master
