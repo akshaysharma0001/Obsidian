@@ -99,9 +99,3 @@ ssh-keygen -t rsa -b 4096 -C "akshaysharmas2305@gmail.com"
 
 cat githubssh.pub
 
-Branch
-
-
-
-
-
