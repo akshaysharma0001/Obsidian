@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Git & GitHub Complete Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Git & GitHub Complete Guide"
             }
           }
         ],
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125,
-    "collapsed": true
+    "width": 344.70001220703125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -261,10 +260,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f19f8e83a586aefe",
+  "active": "cfc38a0a406da63a",
   "lastOpenFiles": [
+    "Webdev/Git.md",
+    "Git & GitHub Complete Guide.md",
     "akdfj;laksdfjaskf.md",
-    "Git.md",
     "Webdev/Week 5/cors - Cross origin resource sharing.md",
     "Pasted image 20260826174637.png",
     "Pasted image 20260826174620.png",
@@ -300,7 +300,6 @@
     "Webdev/Week 4/Assignment - CLI file cleaner.md",
     "Webdev/Week 4/NPM.md",
     "Webdev/Week 4",
-    "Webdev/Week 3/Bash.md",
     "Webdev/Week 3",
     "Webdev/Week 2",
     "Info",
