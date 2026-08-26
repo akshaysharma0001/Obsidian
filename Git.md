@@ -103,3 +103,24 @@ git checkout master - to switch branch
 git diff main
 
 git push -u origin feature
+
+git merge branchname
+
+merge conflicts -Occasionally, this process doesn't go smoothly.
+
+If you changed the same part of the same file differently in the two branches
+you're merging, Git won't be able to merge them cleanly. If your fix for feature
+branch modified the same part of a file as the hotfix branch, you'll get a merge
+conflict 
+
+. git log -- merge: produce the list of commits that are causing the
+conflict.
+. git diff: Identify the differences between the states repositories or files.
+. git checkout: Used to undo the changes made to the file, or for
+changing branches.
+. git reset -- mixed: Used to undo changes to the working directory and
+staging area.
+. git merge -- abort: Helps in exiting the merge process and returning
+back to the state before the merging began.
+. git reset: Used at the time of merge conflict to reset the conflicted files
+to their original state.
