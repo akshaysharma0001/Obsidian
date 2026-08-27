@@ -128,3 +128,4 @@ Lets initialise an express app that we will use to generate an `authenticated ba
         }
     });
     ```
+This can be improved further by 1. Adding zod for input validation 2. Making sure the same user cant sign up twice 3. Persisting data so it stays even if the process crashes We’ll be covering all of this eventually
