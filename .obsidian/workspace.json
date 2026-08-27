@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 5/Fetch vs axios.md",
+                "file": "Webdev/Week 6/Authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fetch vs axios"
+              "title": "Authentication"
             }
           }
         ],
@@ -235,6 +235,9 @@
   },
   "active": "79ee8142d194f2cf",
   "lastOpenFiles": [
+    "Webdev/Week 5/Fetch vs axios.md",
+    "Webdev/Week 6/Authentication.md",
+    "Webdev/Week 6",
     "Webdev/Week 2/map ,filter ,arrow fn.md",
     "Webdev/Week 5/Route specific middleware.md",
     "Webdev/Week 5/Routes.md",
@@ -256,7 +259,6 @@
     "Webdev/Week 5/CORS.png",
     "Webdev/Week 5/next.png",
     "Webdev/Week 5/Create HTTP Server.md",
-    "Webdev/Week 5/Fetch vs axios.md",
     "Webdev/Week 5/HTTP Deep Dive.md",
     "Webdev/Devops VL.md",
     "Webdev/Week 5/request header.png",
@@ -271,7 +273,6 @@
     "Webdev/Week 4/Response.md",
     "Webdev/Week 4/Methods.md",
     "Class Notes/Full stack/Full stack syllabus.md",
-    "Webdev/Week 4/Assignment - CLI todo.md",
     "Webdev/Week 4",
     "Webdev/Week 3",
     "Webdev/Week 2",
@@ -279,7 +280,6 @@
     "DSA",
     "Webdev/Week 1",
     "Webdev",
-    "WebDev/Webdev Notes/Week5/HTTP Deep dive",
-    "WebDev/Webdev Notes/Week4/Intro to HTTP"
+    "WebDev/Webdev Notes/Week5/HTTP Deep dive"
   ]
 }
