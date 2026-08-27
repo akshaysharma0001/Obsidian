@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 2/map ,filter ,arrow fn.md",
+                "file": "Webdev/Week 5/Fetch vs axios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "map ,filter ,arrow fn"
+              "title": "Fetch vs axios"
             }
           }
         ],
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125
+    "width": 344.70001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -232,10 +233,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cfc38a0a406da63a",
+  "active": "79ee8142d194f2cf",
   "lastOpenFiles": [
-    "Webdev/Week 5/Route specific middleware.md",
     "Webdev/Week 2/map ,filter ,arrow fn.md",
+    "Webdev/Week 5/Route specific middleware.md",
     "Webdev/Week 5/Routes.md",
     "Webdev/Week 5/Middlewares.md",
     "Webdev/Web dev syllabus.md",
@@ -255,7 +256,7 @@
     "Webdev/Week 5/CORS.png",
     "Webdev/Week 5/next.png",
     "Webdev/Week 5/Create HTTP Server.md",
-    "Webdev/Week 5/Fetch API.md",
+    "Webdev/Week 5/Fetch vs axios.md",
     "Webdev/Week 5/HTTP Deep Dive.md",
     "Webdev/Devops VL.md",
     "Webdev/Week 5/request header.png",
