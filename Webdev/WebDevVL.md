@@ -23,7 +23,7 @@
 ## Week 5 - HTTP Fundamentals
 
 - [x] Headers, Query parameters — 2:18:29
-- [ ] Middlewares and cors — 2:04:33
+- [x] Middlewares and cors — 2:04:33
 
 ## Week 6 - Authentication
 
