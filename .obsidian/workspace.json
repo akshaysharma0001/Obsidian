@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "map ,filter ,arrow fn.md",
+                "file": "Webdev/Week 2/map ,filter ,arrow fn.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125,
-    "collapsed": true
+    "width": 344.70001220703125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -233,10 +232,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "79ee8142d194f2cf",
+  "active": "cfc38a0a406da63a",
   "lastOpenFiles": [
     "Webdev/Week 5/Route specific middleware.md",
-    "map ,filter ,arrow fn.md",
+    "Webdev/Week 2/map ,filter ,arrow fn.md",
     "Webdev/Week 5/Routes.md",
     "Webdev/Week 5/Middlewares.md",
     "Webdev/Web dev syllabus.md",
