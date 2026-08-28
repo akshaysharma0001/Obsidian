@@ -138,7 +138,7 @@ This can be improved further by
 Let’s create an endpoint (`/me` ) that returns the user their information `only if they send their
 
 The token should be sent in request header object named authorization ,because its an  meta data.
-We can also send it to body but its not ment for it
+We can also send it 
 
 ```javascript
 app.get("/me", (req, res) => {

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Authentication"
             }
+          },
+          {
+            "id": "5ee9d3ee7f521842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/Week 6/Tokens vs JWTs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tokens vs JWTs"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,11 +246,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "79ee8142d194f2cf",
+  "active": "cfc38a0a406da63a",
   "lastOpenFiles": [
+    "Webdev/Week 6/Authentication.md",
+    "Webdev/Week 6/Tokens vs JWTs.md",
     "DSA/Pattern.md",
     "DSA/Hashing.md",
-    "Webdev/Week 6/Authentication.md",
     "Info/Psychology of Discipline (And How to Trick Your Brain Into Craving It).md",
     "Pasted image 20260827131246.png",
     "Webdev/Week 5/Fetch vs axios.md",
@@ -271,7 +286,6 @@
     "Webdev/Week 5",
     "Webdev/Week 4/Body.md",
     "Webdev/Week 4/HTTP.md",
-    "Webdev/Week 4/Status Codes.md",
     "Webdev/Week 4",
     "Webdev/Week 3",
     "Webdev/Week 2",
