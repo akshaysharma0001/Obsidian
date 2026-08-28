@@ -104,3 +104,23 @@ You no longer need to store the `token` in the global `users` variable
         }
     })
     ```
+
+# JWTs can be DECODED by anyone
+
+JWTs can be decoded by anyone. They can be `verified` by only the server that issued them.
+
+Ref - [https://jwt.io/](https://jwt.io/)
+
+Try creating a jwt and decoding it on the website. You’ll notice it does decode. But that is fine
+
+## Comparision to a cheque.
+
+If you ever sign a `cheque`, you can show it to everyone and everyone can see that you are transferring $20 to a friend. But only the BANK `needs to verify` before debiting the users account.
+
+Doesnt matter if everyone sees the cheque, they cant do anything with this information.
+
+But the `bank` can `verify` the signature and do whatever the end users asked to do
+
+JWTs can be coded by everyone
+
+	JWTs can be verified by only the person who issued them (using the JWT secret)
