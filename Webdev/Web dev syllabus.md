@@ -1,17 +1,17 @@
 ## Foundations
 
-|                                                    |                                            |                                               |
-| -------------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| Easy                                               | Medium                                     | Hard                                          |
-| [[HTML]]                                           |                                            |                                               |
-| [[CSS]]                                            |                                            |                                               |
-| Bash basics (cd, ls, pwd, mkdir, touch, vi)        |                                            |                                               |
-|                                                    | Bash medium (grep, piping, reverse search) |                                               |
-| Git/Github                                         |                                            |                                               |
-| [[Javascript]] Intro, Single threaded nature of JS |                                            |                                               |
-|                                                    | Async JS, callback queue, event loop       |                                               |
-|                                                    |                                            | Creating promises, Common Promise API methods |
-| Common JS APIs (map, filter, reduce, Object.keys)  |                                            |                                               |
+|                                                    |                                            |                                                         |
+| -------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------- |
+| Easy                                               | Medium                                     | Hard                                                    |
+| [[HTML]]                                           |                                            |                                                         |
+| [[CSS]]                                            |                                            |                                                         |
+| [[Bash]] basics (cd, ls, pwd, mkdir, touch, vi)    |                                            |                                                         |
+|                                                    | Bash medium (grep, piping, reverse search) |                                                         |
+| Git/Github                                         |                                            |                                                         |
+| [[Javascript]] Intro, Single threaded nature of JS |                                            |                                                         |
+|                                                    | [[Async JS]], [[JS architecture]]          |                                                         |
+|                                                    |                                            | [[Promises]], [[Async Await]]Common Promise API methods |
+| Common JS APIs (map, filter, reduce, Object.keys)  |                                            |                                                         |
 
 ## Simple frontend, DOM
 
@@ -31,29 +31,29 @@
 
 ## Node.js/Bun/Cloudflare Runtime - Various JS runtimes
 
-|   |   |   |
-|---|---|---|
-|easy|medium|hard|
-|What is a JS runtime|||
-|Node.js installation, common APIs|||
-|file system api, fetch.|||
-|External packages, axios vs fetch|||
-||v8, cf runtime||
-|||stream, worker threads, cluster module,|
+|                                            |                |                                         |
+| ------------------------------------------ | -------------- | --------------------------------------- |
+| easy                                       | medium         | hard                                    |
+| What is a JS runtime                       |                |                                         |
+| Node.js installation, common APIs, [[NPM]] |                |                                         |
+| file system api, fetch.                    |                |                                         |
+| External packages, axios vs fetch          |                |                                         |
+|                                            | v8, cf runtime |                                         |
+|                                            |                | stream, worker threads, cluster module, |
 
 ## HTTP Servers
 
-|   |   |   |   |
-|---|---|---|---|
-|Simple|Medium|Advance||
-|What are HTTP Servers||||
-|Methods, routes, URLs, IPs and domains||||
-||headers, body, query parameters|||
-||Intro to express, creating routes|||
-||Middlewares in express|||
-||File system like DBs|||
-||Authentication using jwts, basics of jwts|||
-||==Secret management using Doppler==|||
+|                                                |                                           |         |     |
+| ---------------------------------------------- | ----------------------------------------- | ------- | --- |
+| Simple                                         | Medium                                    | Advance |     |
+| What are [[HTTP]] Servers                      |                                           |         |     |
+| [[Methods]], [[Routes]], URLs, IPs and domains |                                           |         |     |
+|                                                | [[Headers]], body, query parameters       |         |     |
+|                                                | Intro to express, creating routes         |         |     |
+|                                                | Middlewares in express                    |         |     |
+|                                                | File system like DBs                      |         |     |
+|                                                | Authentication using jwts, basics of jwts |         |     |
+|                                                | ==Secret management using Doppler==       |         |     |
 
 ### NoSQL Databases
 
@@ -210,9 +210,7 @@ Full stack
 
 ## More topics
 
-###   
-•⁠ ⁠⁠ZOD  
-- ⁠Serverless BE  
+###  ZOD  -  ⁠Serverless BE  
 •⁠ ⁠⁠openAPI spec  
 •⁠ ⁠⁠Autogenerated clients  
 •⁠ ⁠⁠Rate Limiting  
