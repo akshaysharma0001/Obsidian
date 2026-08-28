@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 6/Tokens vs JWTs.md",
+                "file": "Webdev/Week 6/JWTs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tokens vs JWTs"
+              "title": "JWTs"
             }
           }
         ],
@@ -246,10 +246,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cfc38a0a406da63a",
+  "active": "5ee9d3ee7f521842",
   "lastOpenFiles": [
     "Webdev/Week 6/Authentication.md",
-    "Webdev/Week 6/Tokens vs JWTs.md",
+    "Webdev/Week 6/JWTs.md",
     "DSA/Pattern.md",
     "DSA/Hashing.md",
     "Info/Psychology of Discipline (And How to Trick Your Brain Into Craving It).md",
