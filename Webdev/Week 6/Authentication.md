@@ -133,3 +133,22 @@ This can be improved further by
 1. Adding zod for input validation 
 2. Making sure the same user cant sign up twice 
 3. Persisting data so it stays even if the process crashes We’ll be covering all of this eventually
+
+# Creating an authenticated End Point
+Let’s create an endpoint (`/me` ) that returns the user their information `only if they send their
+
+```javascript
+app.get("/me", (req, res) => {
+    const token = req.headers.authorization;
+    const user = users.find(user => user.token === token);
+    if (user) {
+        res.send({
+            username: user.username
+        })
+    } else {
+        res.status(401).send({
+            message: "Unauthorized"
+        })
+    }
+})
+```

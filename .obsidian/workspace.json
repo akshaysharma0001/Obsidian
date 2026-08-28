@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Pattern.md",
+                "file": "Webdev/Week 6/Authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pattern"
+              "title": "Authentication"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.70001220703125,
-    "collapsed": true
+    "width": 344.70001220703125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -235,8 +234,8 @@
   },
   "active": "79ee8142d194f2cf",
   "lastOpenFiles": [
-    "DSA/Hashing.md",
     "DSA/Pattern.md",
+    "DSA/Hashing.md",
     "Webdev/Week 6/Authentication.md",
     "Info/Psychology of Discipline (And How to Trick Your Brain Into Craving It).md",
     "Pasted image 20260827131246.png",
