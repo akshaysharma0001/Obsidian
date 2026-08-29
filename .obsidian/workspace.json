@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,11 +260,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "962adcb929791aa3",
+  "active": "e758d7f43a3ab2d4",
   "lastOpenFiles": [
+    "Webdev/Week 7/Setting up Mongo db.md",
     "Webdev/Week 7/Creating the backend of a todo app.md",
     "Webdev/Week 7/Seeding data into db.md",
-    "Webdev/Week 7/Setting up Mongo db.md",
     "Webdev/Week 7/todo table.png",
     "Webdev/Week 7/usertable.png",
     "Webdev/Week 7/MongoDB and NoSQL databases.md",
