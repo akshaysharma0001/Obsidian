@@ -1,0 +1,12 @@
+NoSQL databases are a broad category of database systems that diverge from the traditional relational model used in SQL databases.
+
+They are designed to handle a variety of data models and workloads that may not fit neatly into the tabular schema of relational databases.
+
+## Properties
+
+- **Schema Flexibility:** NoSQL databases often allow for a flexible schema, meaning you can store data in formats that don't require a fixed structure.
+- **Scalability:** Many NoSQL databases are designed to scale out horizontally, making it easier to distribute data across multiple servers and handle large volumes of traffic.
+
+# MongoDB
+MongoDB is a NoSQL database that uses a document-oriented approach. Data is stored in flexible, JSON-like documents, which can have nested structures and varied fields.
+![[Pasted image 20260829103326.png]]
