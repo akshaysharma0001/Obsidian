@@ -11,7 +11,7 @@ For example -
 
 Servers should be stateless
 
-![[Pasted image 20260829103143.png]]
+![[backend.png]]
 
 ## Types of databases
 

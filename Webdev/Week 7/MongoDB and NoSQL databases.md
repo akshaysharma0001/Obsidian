@@ -9,4 +9,4 @@ They are designed to handle a variety of data models and workloads that may not 
 
 # MongoDB
 MongoDB is a NoSQL database that uses a document-oriented approach. Data is stored in flexible, JSON-like documents, which can have nested structures and varied fields.
-![[Pasted image 20260829103326.png]]
+![[mongoclustor.png]]
