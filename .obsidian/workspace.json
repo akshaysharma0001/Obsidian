@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 6/zod.md",
+                "file": "Webdev/Week 7/Setting up Mongo db.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zod"
+              "title": "Setting up Mongo db"
             }
           }
         ],
@@ -248,8 +248,10 @@
   },
   "active": "5ee9d3ee7f521842",
   "lastOpenFiles": [
-    "Webdev/Week 6/Try catch.md",
     "Webdev/Week 6/zod.md",
+    "Webdev/Week 7/Setting up Mongo db.md",
+    "Webdev/Week 7",
+    "Webdev/Week 6/Try catch.md",
     "Webdev/Week 6/Assignment.md",
     "Webdev/Week 6/JWTs.md",
     "Webdev/Week 6/Authentication.md",
@@ -284,7 +286,6 @@
     "Webdev/Devops VL.md",
     "Webdev/Week 5/request header.png",
     "Webdev/Week 5/response header.png",
-    "Webdev/Week 4/Express basic.md",
     "Webdev/Week 5",
     "Webdev/Week 4",
     "Webdev/Week 3",
@@ -292,7 +293,6 @@
     "Info",
     "DSA",
     "Webdev/Week 1",
-    "Webdev",
-    "WebDev/Webdev Notes/Week5/HTTP Deep dive"
+    "Webdev"
   ]
 }
