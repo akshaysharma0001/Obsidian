@@ -206,3 +206,19 @@ const { auth, JWT_SECRET } = require("./auth");
 4. Add timestamp at which todo was created/the time it needs to be done by
 5. Relationships in Mongo
 6. Add validations to ensure email and password are correct format
+
+
+- Implementing `app.put('/done')` todo done functionality
+
+```javascript
+app.put('/done',logger,auth,async(req,res)=>{
+    const index=req.body.todoId
+    const target = await TodoModel.updateOne({userId:req.userId,"todoId":index},{$set:{"done":true}})
+    if(target){
+        res.send({"message":"marked task done! "})
+    }
+    else{
+        res.send({"message":"Invalid todoId"})
+    }
+})
+```

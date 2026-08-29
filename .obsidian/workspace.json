@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 7/Hashing password.md",
+                "file": "Webdev/Week 7/Creating the backend of a todo app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashing password"
+              "title": "Creating the backend of a todo app"
             }
           },
           {
@@ -262,12 +262,12 @@
   },
   "active": "e758d7f43a3ab2d4",
   "lastOpenFiles": [
-    "Webdev/Week 7/passwordformat detail.png",
     "Webdev/Week 7/Hashing password.md",
+    "Webdev/Week 7/Creating the backend of a todo app.md",
+    "Webdev/Week 7/passwordformat detail.png",
     "Pasted image 20260829181945.png",
     "Webdev/Week 7/passwordformat.png",
     "Webdev/Week 7/password hashing.png",
-    "Webdev/Week 7/Creating the backend of a todo app.md",
     "Webdev/Week 7/Setting up Mongo db.md",
     "Webdev/Week 7/Seeding data into db.md",
     "Webdev/Week 7/todo table.png",

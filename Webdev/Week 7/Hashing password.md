@@ -19,7 +19,6 @@ We’re starting from yesterday’s code - [https://github.com/100xdevs-cohort-3
 
 - Install the `bcrypt` library - [https://www.npmjs.com/package/bcrypt](https://www.npmjs.com/package/bcrypt)
     
-    ![Screenshot 2024-09-15 at 6.43.20 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/085e8ad8-528e-47d7-8922-a23dc4016453/7f4fba53-1604-4648-b38c-a2e96c6255a1/Screenshot_2024-09-15_at_6.43.20_PM.png)
     
 - Update the `/signup` endpoint
     
@@ -83,4 +82,5 @@ app.post("/signin", async function(req, res) {
     }
 });
 ```
+
 
