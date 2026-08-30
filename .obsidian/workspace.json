@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 8/Course selling app.md",
+                "file": "Webdev/Week 7/Setting up Mongo db.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course selling app"
+              "title": "Setting up Mongo db"
             }
           },
           {
@@ -262,9 +262,9 @@
   },
   "active": "e758d7f43a3ab2d4",
   "lastOpenFiles": [
+    "Webdev/Week 8/Course selling app.md",
     "Webdev/Week 8/databaSchema.png",
     "Webdev/Week 7/Relationships in mongo.md",
-    "Webdev/Week 8/Course selling app.md",
     "Webdev/Week 8/coursejs.png",
     "Pasted image 20260830061301 1.png",
     "Webdev/Week 8/indexjs.png",
