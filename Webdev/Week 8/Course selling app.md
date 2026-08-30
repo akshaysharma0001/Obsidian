@@ -15,3 +15,6 @@
 - Add a rate limiting middleware
 - Frontend in ejs (low pri)
 - Frontend in React
+
+# Routing 
+Routing in Express.js determines how an application's endpoints respond to client requests based on a specific URI (or path) and an HTTP request method
