@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 7/Relationships in mongo.md",
+                "file": "Webdev/Week 8/Course selling app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relationships in mongo"
+              "title": "Course selling app"
             }
           },
           {
@@ -262,13 +262,13 @@
   },
   "active": "e758d7f43a3ab2d4",
   "lastOpenFiles": [
+    "Webdev/Week 7/Relationships in mongo.md",
     "Webdev/Week 7/Creating the backend of a todo app.md",
     "Webdev/Week 7/mongoclustor.png",
     "Webdev/Week 7/usertable.png",
     "Webdev/Week 7/todo table.png",
-    "Webdev/Week 7/Relationships in mongo.md",
     "Webdev/Week 7/backend.png",
-    "Webdev/Week 8/Untitled.md",
+    "Webdev/Week 8/Course selling app.md",
     "Webdev/Week 8",
     "Webdev/Week 7/Hashing password.md",
     "Webdev/Week 7/passwordformat detail.png",
