@@ -1,4 +1,4 @@
-- Initialize a new Node.js project
+![[indexjs.png]]- Initialize a new Node.js project
 - Add Express, jsonwebtoken, mongoose to it as a dependency
 - Create index.js
 - Add route skeleton for user login, signup, purchase a course, sees all courses, sees the purchased courses course
@@ -18,3 +18,9 @@
 
 # Routing 
 Routing in Express.js determines how an application's endpoints respond to client requests based on a specific URI (or path) and an HTTP request method
+
+- Approach 1 
+- course.js
+		![[coursejs.png]]
+		
+	- Index.js![[indexjs.png]]
