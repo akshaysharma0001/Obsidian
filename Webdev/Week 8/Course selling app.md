@@ -24,3 +24,6 @@ Routing in Express.js determines how an application's endpoints respond to clien
 		![[coursejs.png]]
 		
 	- Index.js![[indexjs.png]]
+
+
+![[databaSchema.png]]
