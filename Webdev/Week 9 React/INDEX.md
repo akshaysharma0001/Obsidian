@@ -16,3 +16,6 @@
 [[16. Layouts]]
 [[17. Building a website]]
 [[18. useRef]]
+[[19. Custom hooks]]
+[[20. Rolling up the state, unoptimal re-renders]]
+[[21. Prop drilling]]
