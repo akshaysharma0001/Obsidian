@@ -36,40 +36,12 @@
             }
           },
           {
-            "id": "e758d7f43a3ab2d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/Week 9 React/INDEX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INDEX"
-            }
-          },
-          {
-            "id": "1fa0599dda13cd49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/Week 9 React/INDEX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INDEX"
-            }
-          },
-          {
             "id": "c1f49980a880b689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. useEffect.md",
+                "file": "Webdev/Week 9 React/5. useEffect.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. useState.md",
+                "file": "Webdev/Week 9 React/3. useState.md",
                 "mode": "source",
                 "source": false
               },
@@ -104,9 +76,191 @@
               "icon": "lucide-file",
               "title": "INDEX"
             }
+          },
+          {
+            "id": "f4335ffcea76a3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18. useRef.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18. useRef"
+            }
+          },
+          {
+            "id": "3ef7cd1bfb9d4911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Building a website.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Building a website"
+            }
+          },
+          {
+            "id": "77aaebeca995c6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. Layouts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. Layouts"
+            }
+          },
+          {
+            "id": "9dfb2392a770ffb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15. Single page applications, routing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. Single page applications, routing"
+            }
+          },
+          {
+            "id": "0f4ecaeff16b16ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Fragment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Fragment"
+            }
+          },
+          {
+            "id": "099d0c58d25b5e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Error boundary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Error boundary"
+            }
+          },
+          {
+            "id": "50ffaa70cfd3b4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Lifecycle events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Lifecycle events"
+            }
+          },
+          {
+            "id": "c2f4abdd617ef9d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Class based vs functional components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Class based vs functional components"
+            }
+          },
+          {
+            "id": "a1f7b53d0cdcaa0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Inline styling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Inline styling"
+            }
+          },
+          {
+            "id": "51777978aba49f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Lists and Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Lists and Keys"
+            }
+          },
+          {
+            "id": "13122ee19f5d8163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/Week 9 React/8. children.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. children"
+            }
+          },
+          {
+            "id": "0829097e2a0e36df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/Week 9 React/7. Conditional Rendering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Conditional Rendering"
+            }
+          },
+          {
+            "id": "741e152c53c5f134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/Week 9 React/6. props.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. props"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -302,12 +456,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1f49980a880b689",
+  "active": "f4335ffcea76a3d9",
   "lastOpenFiles": [
-    "5. useEffect.md",
+    "18. useRef.md",
     "Webdev/Week 9 React/INDEX.md",
-    "4. Tracking re-renders.md",
-    "3. useState.md",
+    "17. Building a website.md",
+    "16. Layouts.md",
+    "15. Single page applications, routing.md",
+    "14. Fragment.md",
+    "13. Error boundary.md",
+    "12. Lifecycle events.md",
+    "11. Class based vs functional components.md",
+    "10. Inline styling.md",
+    "9. Lists and Keys.md",
+    "Webdev/Week 9 React/8. children.md",
+    "Webdev/Week 9 React/7. Conditional Rendering.md",
+    "Webdev/Week 9 React/6. props.md",
+    "Webdev/Week 9 React/5. useEffect.md",
+    "Webdev/Week 9 React/4. Tracking re-renders.md",
+    "Webdev/Week 9 React/3. useState.md",
     "Webdev/Week 9 React/2. Components.md",
     "Pasted image 20260826153725.png",
     "Pasted image 20260827131246.png",
@@ -329,21 +496,8 @@
     "Webdev/Week 8 Course selling app backend",
     "Webdev/Week 7 mongodb/Hashing password.md",
     "Webdev/Week 7 mongodb/Seeding data into db.md",
-    "Webdev/Week 7 mongodb/MongoDB and NoSQL databases.md",
-    "Webdev/Week 7 mongodb/What are databases.md",
     "Webdev/Week 7 mongodb",
-    "Webdev/Week 6 authentication (zod ,jwt)/Try catch.md",
-    "Webdev/Week 6 authentication (zod ,jwt)/Assignment.md",
-    "Webdev/Week 6 authentication (zod ,jwt)/JWTs.md",
-    "Webdev/Week 6 authentication (zod ,jwt)/Authentication.md",
-    "DSA/Pattern.md",
-    "DSA/Hashing.md",
-    "Info/Psychology of Discipline (And How to Trick Your Brain Into Craving It).md",
-    "Webdev/Week 5 Express, Git ,Middleware/Fetch vs axios.md",
     "Webdev/Week 6 authentication (zod ,jwt)",
-    "Webdev/Week 2 async js, promise/map ,filter ,arrow fn.md",
-    "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
-    "Webdev/Week 5 Express, Git ,Middleware/Routes.md",
     "Webdev/Week 5 Express, Git ,Middleware",
     "Webdev/Week 4 Express,npm basics",
     "Webdev/Week 3 DOM",
