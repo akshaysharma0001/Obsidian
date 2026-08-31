@@ -19,3 +19,6 @@
 [[19. Custom hooks]]
 [[20. Rolling up the state, unoptimal re-renders]]
 [[21. Prop drilling]]
+[[22. Context API]]
+[[23. Testing the context api]]
+[[24. Introducing recoil]]

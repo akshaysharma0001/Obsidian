@@ -27,18 +27,18 @@
 
 ## Week 6 - Authentication
 
-- [ ] HTTP Deep dive and Auth in Node.js — 2:44:54
-- [ ] Auth and connecting FE to BE — 2:24:30
+- [x] HTTP Deep dive and Auth in Node.js — 2:44:54
+- [x] Auth and connecting FE to BE — 2:24:30
 
 ## Week 7 - MongoDB and Validation
 
-- [ ] MongoDB — 2:07:43
-- [ ] Passwords, zod — 2:07:51
+- [x] MongoDB — 2:07:43
+- [x] Passwords, zod — 2:07:51
 
 ## Week 8 - Backend Project
 
-- [ ] Backend of Course selling app — 2:14:29
-- [ ] Backend of Course selling app - Part 2 — 2:16:17
+- [x] Backend of Course selling app — 2:14:29
+- [x] Backend of Course selling app - Part 2 — 2:16:17
 
 ---
 
