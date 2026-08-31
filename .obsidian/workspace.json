@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 9 React/1. Starting a react project locally.md",
+                "file": "Webdev/Week 9 React/2. Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Starting a react project locally"
+              "title": "2. Components"
             }
           }
         ]
@@ -220,10 +220,10 @@
   },
   "active": "b5c89dc97ba36bd7",
   "lastOpenFiles": [
+    "Webdev/Week 9 React/1. Starting a react project locally.md",
     "Webdev/Week 9 React/3. useState.md",
     "Webdev/Week 9 React/INDEX.md",
     "Webdev/Week 9 React/2. Components.md",
-    "Webdev/Week 9 React/1. Starting a react project locally.md",
     "Webdev/Week 5 Express, Git ,Middleware/axios sum.png",
     "Webdev/Week 6 authentication (zod ,jwt)/token example.png",
     "Webdev/WebDevVL.md",
