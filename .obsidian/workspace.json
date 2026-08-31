@@ -11,10 +11,14 @@
             "id": "b5c89dc97ba36bd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/Week 9 React/1. Starting a react project locally.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Starting a react project locally"
             }
           }
         ]
