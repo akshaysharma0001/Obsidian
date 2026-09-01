@@ -3,3 +3,5 @@
 - It is used to get or set the value of the private field thus providing encapsulation
 - Need of property
 - if we have a variable as public any body can change the value and we are not able to provide certain restrictions on a public value.Therefore we can make a field private and use a property
+
+- Qn - Creation of a property 
