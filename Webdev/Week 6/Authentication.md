@@ -12,7 +12,7 @@ When you go to open a bank account in a bank, you
 4. That is how the bank identifies you.
 
 The workflow for authentication usually looks as follows -
-![[token example.png]]
+![[Pasted image 20260827131246.png]]
 
 1. The user comes to your website ([courses.com](http://courses.com))
 2. The user sends a request to `/signin` with their `username` and `password`

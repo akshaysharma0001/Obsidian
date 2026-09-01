@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 7/Hashing password.md",
+                "file": "Webdev/WebDevVL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashing password"
+              "title": "WebDevVL"
             }
           }
         ]
@@ -194,6 +194,13 @@
   },
   "active": "8b6ffb81b4a98034",
   "lastOpenFiles": [
+    "Webdev/Devops VL.md",
+    "Webdev/WebDevVL.md",
+    "Webdev/Week 7/Hashing password.md",
+    "/Webdev/Week 7/Hashing password.md",
+    "/Webdev/Week 7/Creating the backend of a todo app.md",
+    "/Webdev/Week 7",
+    "/Webdev",
     "Webdev/Week 7/usertable.png",
     "Webdev/Week 6/JWTs.md",
     "Webdev/Week 7/todo table.png",
@@ -201,7 +208,6 @@
     "Webdev/Week 7/passwordformat detail.png",
     "Webdev/Week 7/MongoDB and NoSQL databases.md",
     "Webdev/Week 7/password hashing.png",
-    "Webdev/Week 7/Hashing password.md",
     "Webdev/Week 7/Creating the backend of a todo app.md",
     "Webdev/Week 6/zod.md",
     "Webdev/Week 6/Try catch.md",
@@ -217,23 +223,17 @@
     "/Webdev/Week 7/Setting up Mongo db.md",
     "/Webdev/Week 7/Seeding data into db.md",
     "/Webdev/Week 7/MongoDB and NoSQL databases.md",
-    "/Webdev/Week 7/Hashing password.md",
-    "/Webdev/Week 7/Creating the backend of a todo app.md",
     "/Webdev/Week 6/zod.md",
     "/Webdev/Week 6/Try catch.md",
     "/Webdev/Week 6/JWTs.md",
     "/Webdev/Week 6/Assignment.md",
     "Webdev/Week 6/Assignment.md",
     "/Webdev/Week 6",
-    "/Webdev/Week 7",
     "Webdev/Week 7",
-    "/Webdev",
     "Webdev/Week 1/HTML.md",
     "Webdev/Week 3/Bash.md",
     "Webdev/Week 3/DOM.md",
     "Webdev/Week 3",
-    "Webdev/WebDevVL.md",
-    "Webdev/Devops VL.md",
     "Info",
     "Webdev/Week 6",
     "Webdev/Week 4",
