@@ -37,8 +37,8 @@
 
 ## Week 8 - Backend Project
 
-- [ ] Backend of Course selling app — 2:14:29
-- [ ] Backend of Course selling app - Part 2 — 2:16:17
+- [x] Backend of Course selling app — 2:14:29
+- [x] Backend of Course selling app - Part 2 — 2:16:17
 
 ---
 
