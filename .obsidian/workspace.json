@@ -220,6 +220,8 @@
   },
   "active": "56748bfa315cafdc",
   "lastOpenFiles": [
+    "Webdev/Week 9 React/5.1-1.pdf.pptx",
+    "Webdev/Week 9 React/5.1-1.pdf.pdf",
     "Webdev/Week 9 React/notes.md",
     "Webdev/Week 9 React/8. children.md",
     "Webdev/Week 9 React/7. Conditional Rendering.md",
@@ -247,7 +249,6 @@
     "Webdev/Week 9 React/23. Testing the context api.md",
     "Webdev/Week 9 React/22. Context API.md",
     "Webdev/Week 9 React/21. Prop drilling.md",
-    "Webdev/Week 9 React/20. Rolling up the state, unoptimal re-renders.md",
     "Webdev/Week 9 React",
     "Webdev/Week 7 mongodb/passwordformat.png",
     "Webdev/Week 8 Course selling app backend/databaSchema.png",
@@ -264,7 +265,6 @@
     "Webdev/Week 4 Express,npm basics",
     "Webdev/Week 3 DOM",
     "Webdev/Week 2 async js, promise",
-    "Info",
-    "DSA"
+    "Info"
   ]
 }
