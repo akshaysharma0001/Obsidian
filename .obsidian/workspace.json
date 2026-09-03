@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9969f92dd1f0f4cc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56748bfa315cafdc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "b25f756b46620ed7",
         "type": "tabs",
         "children": [
@@ -29,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 9 React/notes.md",
+                "file": "Webdev/Week 9 React/12. Lifecycle events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "12. Lifecycle events"
             }
           }
         ]
@@ -235,36 +219,36 @@
   },
   "active": "e54474f7e9b5e867",
   "lastOpenFiles": [
+    "Webdev/Week 9 React/11. Class based vs functional components.md",
+    "Webdev/Week 9 React/10. Inline styling.md",
+    "Webdev/Week 9 React/9. Lists and Keys.md",
+    "Webdev/Week 9 React/7. Conditional Rendering.md",
+    "Webdev/Week 9 React/5. useEffect.md",
+    "Webdev/Week 9 React/4. Tracking re-renders.md",
+    "Webdev/Week 9 React/3. useState.md",
+    "Webdev/Week 9 React/8. children.md",
+    "Webdev/Week 9 React/6. props.md",
+    "Webdev/Week 9 React/notes.md",
     "WEB3 VL.md",
     "video links.md",
-    "Webdev/Week 9 React/notes.md",
     "WebDevVL.md",
     "Devops VL.md",
     "Unconfirmed 66426.crdownload",
     "Webdev/Devops syllabus.md",
-    "Webdev/Week 9 React/6. props.md",
     "Webdev/Week 9 React/5.1-1.pdf.pptx",
     "Webdev/Week 9 React/5.1-1.pdf.pdf",
-    "Webdev/Week 9 React/8. children.md",
-    "Webdev/Week 9 React/7. Conditional Rendering.md",
-    "Webdev/Week 9 React/5. useEffect.md",
-    "Webdev/Week 9 React/3. useState.md",
     "Webdev/Week 9 React/INDEX.md",
-    "Webdev/Week 9 React/4. Tracking re-renders.md",
     "Webdev/Week 9 React/2. Components.md",
     "Webdev/Web dev syllabus.md",
     "Webdev/Week 9 React/1. Starting a react project locally.md",
     "Webdev/Week 5 Express, Git ,Middleware/axios sum.png",
     "Webdev/Week 6 authentication (zod ,jwt)/token example.png",
-    "Webdev/Week 9 React/9. Lists and Keys.md",
     "Webdev/Week 9 React/17. Building a website.md",
     "Webdev/Week 9 React/16. Layouts.md",
     "Webdev/Week 9 React/15. Single page applications, routing.md",
     "Webdev/Week 9 React/14. Fragment.md",
     "Webdev/Week 9 React/13. Error boundary.md",
     "Webdev/Week 9 React/12. Lifecycle events.md",
-    "Webdev/Week 9 React/11. Class based vs functional components.md",
-    "Webdev/Week 9 React/10. Inline styling.md",
     "Webdev/Week 9 React/24. Introducing recoil.md",
     "Webdev/Week 9 React",
     "Webdev/Week 7 mongodb/passwordformat.png",
