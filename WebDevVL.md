@@ -48,7 +48,7 @@
 
 - [x] React Basics — 2:02:45
 - [x] React useState — 2:14:30
-- [ ] React from basics Part-1 (Offline Video) — 2:24:35
+- [x] React from basics Part-1 (Offline Video) — 2:24:35
 - [ ] React from basics Part-2 (Offline Video) — 55:16
 
 ## Week 10 - React Advanced
@@ -235,7 +235,60 @@
 
 # Progress
 
-- Total Videos: 70
-- Completed: 9
-- Remaining: 61
-- Total Listed Duration: ~144 hours 55 minutes
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+if (currentFile) {
+    const content = await app.vault.read(currentFile);
+    const lines = content.split("\n");
+
+    let totalSec = 0;
+    let completedSec = 0;
+    let totalCount = 0;
+    let completedCount = 0;
+
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+        const taskMatch = line.match(/^[\s>]*-\s*\[([ xX])\]\s*(.*)$/);
+        if (taskMatch) {
+            const isCompleted = taskMatch[1].toLowerCase() === "x";
+            const text = taskMatch[2];
+            const timeMatch = text.match(/(\d+):(\d{2}):(\d{2})\s*$/) || text.match(/(\d{1,2}):(\d{2})\s*$/);
+            
+            if (timeMatch) {
+                totalCount++;
+                let sec = 0;
+                if (timeMatch.length === 4) {
+                    sec = parseInt(timeMatch[1], 10) * 3600 + parseInt(timeMatch[2], 10) * 60 + parseInt(timeMatch[3], 10);
+                } else if (timeMatch.length === 3) {
+                    sec = parseInt(timeMatch[1], 10) * 60 + parseInt(timeMatch[2], 10);
+                }
+
+                totalSec += sec;
+                if (isCompleted) {
+                    completedCount++;
+                    completedSec += sec;
+                }
+            }
+        }
+    }
+
+    const formatTime = function(sec) {
+        const h = Math.floor(sec / 3600);
+        const m = Math.floor((sec % 3600) / 60);
+        return h + "h " + m + "m";
+    };
+
+    const remainingSec = totalSec - completedSec;
+    const remainingCount = totalCount - completedCount;
+    const pct = totalSec > 0 ? ((completedSec / totalSec) * 100).toFixed(1) : "0.0";
+
+    dv.table(
+        ["Metric", "Count", "Duration"],
+        [
+            ["Completed", completedCount, formatTime(completedSec) + " (" + pct + "%)"],
+            ["Remaining", remainingCount, formatTime(remainingSec)],
+            ["Total Tracked", totalCount, formatTime(totalSec)]
+        ]
+    );
+}
+```

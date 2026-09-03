@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Devops VL.md",
-                "mode": "source",
+                "file": "WebDevVL.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devops VL"
+              "title": "WebDevVL"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/Week 2/Promises.md",
+                "file": "WebDevVL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,8 +180,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "09f90c6aabf85b87",
@@ -220,6 +219,9 @@
   },
   "active": "56748bfa315cafdc",
   "lastOpenFiles": [
+    "WEB3 VL.md",
+    "Devops VL.md",
+    "Unconfirmed 66426.crdownload",
     "Webdev/Devops syllabus.md",
     "Webdev/Week 9 React/notes.md",
     "Webdev/Week 9 React/6. props.md",
@@ -232,7 +234,7 @@
     "Webdev/Week 9 React/INDEX.md",
     "Webdev/Week 9 React/4. Tracking re-renders.md",
     "Webdev/Week 9 React/2. Components.md",
-    "Webdev/WebDevVL.md",
+    "WebDevVL.md",
     "Webdev/Web dev syllabus.md",
     "Webdev/Week 9 React/1. Starting a react project locally.md",
     "Webdev/Week 5 Express, Git ,Middleware/axios sum.png",
@@ -248,8 +250,6 @@
     "Webdev/Week 9 React/10. Inline styling.md",
     "Webdev/Week 9 React/24. Introducing recoil.md",
     "Webdev/Week 9 React/23. Testing the context api.md",
-    "Webdev/Week 9 React/22. Context API.md",
-    "Webdev/Week 9 React/21. Prop drilling.md",
     "Webdev/Week 9 React",
     "Webdev/Week 7 mongodb/passwordformat.png",
     "Webdev/Week 8 Course selling app backend/databaSchema.png",
@@ -264,7 +264,6 @@
     "Webdev/Week 6 authentication (zod ,jwt)",
     "Webdev/Week 5 Express, Git ,Middleware",
     "Webdev/Week 4 Express,npm basics",
-    "Webdev/Week 3 DOM",
-    "Webdev/Week 2 async js, promise"
+    "Webdev/Week 3 DOM"
   ]
 }
