@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 9 React/notes.md",
+                "file": "WEB3 VL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "WEB3 VL"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdev/Week 9 React/notes.md",
+                "file": "WEB3 VL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,8 +219,8 @@
   },
   "active": "56748bfa315cafdc",
   "lastOpenFiles": [
-    "WEB3 VL.md",
     "Webdev/Week 9 React/notes.md",
+    "WEB3 VL.md",
     "WebDevVL.md",
     "Devops VL.md",
     "Unconfirmed 66426.crdownload",

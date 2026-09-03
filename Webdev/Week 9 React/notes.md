@@ -196,6 +196,71 @@ export default App
 
 ```
 
-**Added post but**
+**Added post button **
+
 ```javascript
+import { useState, useEffect } from 'react'
+
+import './App.css'
+
+
+
+function App() {
+
+  const [posts,setPosts]=useState([])
+
+let  PostComponents=posts.map(posts=>
+    <PostComponent
+    logo={posts.logo}
+    post={posts.post}
+    title={posts.title}
+
+    />
+  )
+
+  function addPosts(){
+    setPosts([...posts,{
+      logo: "https://scontent-bom2-3.cdninstagram.com/v/t51.2885-19/173266004_472065277374286_8628022641223545958_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ygIAw1nS_mEQ7kNvwEdz6uA&_nc_oc=Adr6gHjWDcbbNJIKGZghXzWsEHQUP9zj-dsYH-O95PH6WLH3ciKSRhNDhrQz8acVgjgLpPJyfNrn_zfdm6NE3x8M&_nc_zt=24&_nc_ht=scontent-bom2-3.cdninstagram.com&_nc_ss=7b6a8&oh=00_AQLQcIRs23j_65yKg2R71UNj7UQvGAxBeTMRz8CzhHNqtw&oe=6A9E25A6"
+      ,
+      post:"https://scontent-bom2-4.cdninstagram.com/v/t51.82787-15/790475959_18479364874110775_2073283831845381871_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk3NzE4MDI0ODA1MDM0NjQwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Gdu5rbn37yAQ7kNvwEWv2qJ&_nc_oc=Adqh4GXJW-_rUzsnJoeXxejHpzd-udpjFuAdz6DaNA9PAXRYnyWc7hTdBQKIsxWgSxRCH3clnwviVwhMUqafkzsr&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bom2-4.cdninstagram.com&_nc_gid=coTXa06OM6_tvKDi5jnaBw&_nc_ss=7a22e&oh=00_AQIsQPjk5VgM-jOOTF0hPeM4ShC5t6Ow5kwpHc_hs4_MeA&oe=6A9DFC35",
+      title:"GLAU"
+    }])
+
+    
+  }
+
+ 
+
+
+  return (
+    <div>
+      <button onClick={addPosts}>add post</button>
+      <div>
+        {PostComponents}
+      </div>
+    </div>
+    
+
+  )
+  
+}
+
+function PostComponent({logo,post,title}){
+  return(
+    <div style={{display:"flex",justifyContent:'center',flexDirection:"column",width:'fitContent',backgroundColor:'grey',padding:"20px",borderRadius:'30px',margin:'10px'}}>
+      <div>
+        <img src={logo} style={{width:"30px",height:'30px',borderRadius:'30px'}} />
+      <b>{title}</b> 7h
+      </div>
+      
+      <div>
+        <img src={post} style={{width:"430px",height:'600px',borderRadius:'30px'}}/>
+      </div>
+    </div>
+  )
+ }
+
+
+export default App
+
 ```
