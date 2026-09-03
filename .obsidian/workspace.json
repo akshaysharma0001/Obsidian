@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 9 React/notes.md",
+                "file": "Webdev/Devops VL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "Devops VL"
             }
           }
         ]
@@ -220,10 +220,11 @@
   },
   "active": "56748bfa315cafdc",
   "lastOpenFiles": [
+    "Webdev/Devops syllabus.md",
+    "Webdev/Week 9 React/notes.md",
     "Webdev/Week 9 React/6. props.md",
     "Webdev/Week 9 React/5.1-1.pdf.pptx",
     "Webdev/Week 9 React/5.1-1.pdf.pdf",
-    "Webdev/Week 9 React/notes.md",
     "Webdev/Week 9 React/8. children.md",
     "Webdev/Week 9 React/7. Conditional Rendering.md",
     "Webdev/Week 9 React/5. useEffect.md",
