@@ -145,3 +145,53 @@ function App() {
 export default App
 
 ```
+
+
+```javascript
+import { useState, useEffect } from 'react'
+
+import './App.css'
+
+//Conditional rendering
+
+function App() {
+
+  //Conditional rendering
+  return (
+    <div>
+      <br />
+    <ToggleMessage/>
+
+    <ToggleMessage/>
+
+    <ToggleMessage/>
+
+    </div>
+  )
+  
+}
+
+const ToggleMessage=()=>{
+
+  const[isVisible,setVisible]=useState(true)
+
+  function toggle(){
+    setVisible(!isVisible)
+  }
+
+  return(
+    <div>
+      <button onClick={toggle}>Toggle message</button>
+      <h1>{isVisible?"This message is condidionally rendered":null}</h1>
+    
+
+    </div>
+
+  )
+}
+
+
+
+export default App
+
+```
