@@ -68,8 +68,8 @@
 
 - [x] 9.1 | React Basics — 2:02:45
 - [x] 9.2 | React useState — 2:14:30
-- [ ] Week 9.3 - React from basics Part-1 (Offline Video) — 2:24:35
-- [ ] Week 9.4 - React from basics Part-2 (Offline Video) — 55:16
+- [x] Week 9.3 - React from basics Part-1 (Offline Video) — 2:24:35
+- [x] Week 9.4 - React from basics Part-2 (Offline Video) — 55:16
 
 ## Week 10 - React Advanced
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 9 React/17. Building a website.md",
+                "file": "Webdev/Week 9 React/20. Rolling up the state, unoptimal re-renders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Building a website"
+              "title": "20. Rolling up the state, unoptimal re-renders"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 346.02734375
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -176,8 +176,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
@@ -193,8 +193,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -219,8 +219,24 @@
   },
   "active": "e54474f7e9b5e867",
   "lastOpenFiles": [
-    "Webdev/Week 9 React/notes.md",
+    "Webdev/Week 4 Express,npm basics/Assignment - CLI todo.md",
+    "Webdev/Week 4 Express,npm basics/Assignment - CLI file cleaner.md",
+    "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
+    "Webdev/Week 6 authentication (zod ,jwt)/Authentication.md",
+    "Webdev/Week 6 authentication (zod ,jwt)/Assignment.md",
+    "Webdev/Week 7 mongodb/MongoDB and NoSQL databases.md",
+    "Webdev/Week 7 mongodb/Relationships in mongo.md",
+    "Webdev/Week 7 mongodb/Setting up Mongo db.md",
+    "Webdev/Week 7 mongodb/todo table.png",
+    "Webdev/Week 7 mongodb/Seeding data into db.md",
+    "Webdev/Week 7 mongodb/Creating the backend of a todo app.md",
+    "Webdev/Week 8 Course selling app backend/Course selling app.md",
+    "Webdev/Week 8 Course selling app backend/coursejs.png",
+    "Info/Psychology of Discipline (And How to Trick Your Brain Into Craving It).md",
     "WEB3 VL.md",
+    "WebDevVL.md",
+    "Webdev/Week 9 React/17. Building a website.md",
+    "Webdev/Week 9 React/notes.md",
     "Webdev/Week 9 React/todo.png",
     "Webdev/Week 9 React/12. Lifecycle events.md",
     "Webdev/Week 9 React/11. Class based vs functional components.md",
@@ -232,32 +248,17 @@
     "Webdev/Week 9 React/3. useState.md",
     "Webdev/Week 9 React/8. children.md",
     "Webdev/Week 9 React/6. props.md",
-    "video links.md",
-    "WebDevVL.md",
-    "Devops VL.md",
     "Unconfirmed 66426.crdownload",
-    "Webdev/Devops syllabus.md",
     "Webdev/Week 9 React/5.1-1.pdf.pptx",
     "Webdev/Week 9 React/5.1-1.pdf.pdf",
-    "Webdev/Week 9 React/INDEX.md",
-    "Webdev/Week 9 React/2. Components.md",
-    "Webdev/Web dev syllabus.md",
-    "Webdev/Week 9 React/1. Starting a react project locally.md",
     "Webdev/Week 5 Express, Git ,Middleware/axios sum.png",
     "Webdev/Week 6 authentication (zod ,jwt)/token example.png",
-    "Webdev/Week 9 React/17. Building a website.md",
-    "Webdev/Week 9 React/16. Layouts.md",
-    "Webdev/Week 9 React/15. Single page applications, routing.md",
-    "Webdev/Week 9 React/14. Fragment.md",
-    "Webdev/Week 9 React/13. Error boundary.md",
     "Webdev/Week 9 React",
     "Webdev/Week 7 mongodb/passwordformat.png",
     "Webdev/Week 8 Course selling app backend/databaSchema.png",
-    "Webdev/Week 8 Course selling app backend/coursejs.png",
     "Pasted image 20260830061301 1.png",
     "Webdev/Week 8 Course selling app backend/indexjs.png",
     "Pasted image 20260830061310.png",
-    "Webdev/Week 7 mongodb/mongoclustor.png",
     "Webdev/Week 8 Course selling app backend",
     "Webdev/Week 7 mongodb",
     "Webdev/Week 6 authentication (zod ,jwt)",
