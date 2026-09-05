@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b25f756b46620ed7",
+        "id": "c5385d7c6ba706f1",
         "type": "tabs",
         "children": [
           {
-            "id": "e54474f7e9b5e867",
+            "id": "63fbd7860056bf55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/Week 9 React/24. Introducing recoil.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "24. Introducing recoil"
+              "title": "New tab"
             }
           }
         ]
@@ -217,15 +213,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e54474f7e9b5e867",
+  "active": "63fbd7860056bf55",
   "lastOpenFiles": [
+    "Webdev/Week 9 React/24. Introducing recoil.md",
     "Webdev/Week 11 recoil/Recoil vs context api.md",
     "Webdev/Week 11 recoil/Recoil.md",
     "Webdev/Week 11 recoil/Pasted image 20260905163610.png",
     "Webdev/Week 11 recoil/Pasted image 20260905163431.png",
     "Webdev/Week 9 React/19. Custom hooks.md",
     "Webdev/Week 11 recoil",
-    "Webdev/Week 9 React/24. Introducing recoil.md",
     "Webdev/Week 9 React/23. Testing the context api.md",
     "Webdev/Week 10 rolling up state,prop drilling ,context api/Code.md",
     "Webdev/Week 9 React/20. Rolling up the state, unoptimal re-renders.md",
