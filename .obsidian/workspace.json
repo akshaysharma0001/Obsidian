@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 10 rolling up state,prop drilling ,context api/Code.md",
+                "file": "Webdev/Week 9 React/24. Introducing recoil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code"
+              "title": "24. Introducing recoil"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "e54474f7e9b5e867",
   "lastOpenFiles": [
-    "Webdev/Week 9 React/20. Rolling up the state, unoptimal re-renders.md",
+    "Webdev/Week 9 React/23. Testing the context api.md",
+    "Webdev/Week 9 React/24. Introducing recoil.md",
     "Webdev/Week 10 rolling up state,prop drilling ,context api/Code.md",
+    "Webdev/Week 9 React/20. Rolling up the state, unoptimal re-renders.md",
     "Webdev/Week 10 rolling up state,prop drilling ,context api",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI todo.md",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI file cleaner.md",
@@ -247,8 +249,6 @@
     "Webdev/Week 9 React/9. Lists and Keys.md",
     "Webdev/Week 9 React/7. Conditional Rendering.md",
     "Webdev/Week 9 React/5. useEffect.md",
-    "Webdev/Week 9 React/4. Tracking re-renders.md",
-    "Webdev/Week 9 React/3. useState.md",
     "Unconfirmed 66426.crdownload",
     "Webdev/Week 9 React/5.1-1.pdf.pptx",
     "Webdev/Week 9 React/5.1-1.pdf.pdf",
