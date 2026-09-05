@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 11 recoil/Recoil vs context api.md",
+                "file": "Webdev/Week 9 React/24. Introducing recoil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recoil vs context api"
+              "title": "24. Introducing recoil"
             }
           }
         ]
@@ -219,9 +219,9 @@
   },
   "active": "e54474f7e9b5e867",
   "lastOpenFiles": [
+    "Webdev/Week 11 recoil/Recoil vs context api.md",
     "Webdev/Week 11 recoil/Recoil.md",
     "Webdev/Week 11 recoil/Pasted image 20260905163610.png",
-    "Webdev/Week 11 recoil/Recoil vs context api.md",
     "Webdev/Week 11 recoil/Pasted image 20260905163431.png",
     "Webdev/Week 9 React/19. Custom hooks.md",
     "Webdev/Week 11 recoil",
