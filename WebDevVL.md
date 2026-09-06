@@ -74,7 +74,7 @@
 ## Week 10 - React Advanced
 
 - [x] 10.1 | React Part 2. (SPAs, routing) — 1:56:05
-- [ ] 10.2 | React Part 3 (Context API, Rolling up the state) — 1:34:15
+- [x] 10.2 | React Part 3 (Context API, Rolling up the state) — 1:34:15
 
 ## Week 11 - Hooks and State Management
 
