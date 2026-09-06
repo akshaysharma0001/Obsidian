@@ -73,13 +73,13 @@
 
 ## Week 10 - React Advanced
 
-- [ ] 10.1 | React Part 2. (SPAs, routing) — 1:56:05
+- [x] 10.1 | React Part 2. (SPAs, routing) — 1:56:05
 - [ ] 10.2 | React Part 3 (Context API, Rolling up the state) — 1:34:15
 
 ## Week 11 - Hooks and State Management
 
-- [ ] 11.1 | Custom Hooks, useDebounce, useFetch — 2:15:03
-- [ ] 11.2 | State management using Recoil — 2:21:48
+- [x] 11.1 | Custom Hooks, useDebounce, useFetch — 2:15:03
+- [x] 11.2 | State management using Recoil — 2:21:48
 - [ ] 11.3 | offline | Recoil Deep dive — 1:33:36
 - [ ] useEffect, useMemo, useCallback | Cohort 2 — 2:33:03
 
