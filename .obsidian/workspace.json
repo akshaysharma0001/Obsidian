@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 5 Express, Git ,Middleware/Create HTTP Server.md",
+                "file": "Webdev/Week 7 mongodb/Creating the backend of a todo app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create HTTP Server"
+              "title": "Creating the backend of a todo app"
             }
           }
         ]
@@ -219,16 +219,23 @@
   },
   "active": "d49d20a5f30f2747",
   "lastOpenFiles": [
+    "Webdev/Week 7 mongodb/What are databases.md",
+    "Webdev/Week 7 mongodb/Setting up Mongo db.md",
+    "Webdev/Week 7 mongodb/Seeding data into db.md",
+    "Webdev/Week 7 mongodb/Relationships in mongo.md",
+    "Webdev/Week 7 mongodb/MongoDB and NoSQL databases.md",
+    "Webdev/Week 7 mongodb/Creating the backend of a todo app.md",
+    "Project/Stack share.md",
+    "Webdev/Week 8 Course selling app backend/Course selling app.md",
+    "Webdev/Week 5 Express, Git ,Middleware/Create HTTP Server.md",
     "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
     "Webdev/Week 5 Express, Git ,Middleware/Routes.md",
-    "Webdev/Week 5 Express, Git ,Middleware/Create HTTP Server.md",
     "Webdev/Week 4 Express,npm basics/Status Codes.md",
     "Webdev/Week 4 Express,npm basics/Response.md",
     "Webdev/Week 4 Express,npm basics/NPM.md",
     "Webdev/Week 4 Express,npm basics/Methods.md",
     "Webdev/Week 4 Express,npm basics/Headers.md",
     "Webdev/Week 4 Express,npm basics/Express basic.md",
-    "Project/Stack share.md",
     "Project",
     "Webdev/Week 11 recoil/Jotai.md",
     "Webdev/Week 12 UI UX",
@@ -244,13 +251,6 @@
     "Webdev/Week 9 React/20. Rolling up the state, unoptimal re-renders.md",
     "Webdev/Week 10 rolling up state,prop drilling ,context api",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI todo.md",
-    "Webdev/Week 4 Express,npm basics/Assignment - CLI file cleaner.md",
-    "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
-    "Webdev/Week 6 authentication (zod ,jwt)/Authentication.md",
-    "Webdev/Week 6 authentication (zod ,jwt)/Assignment.md",
-    "Webdev/Week 7 mongodb/MongoDB and NoSQL databases.md",
-    "Webdev/Week 7 mongodb/Relationships in mongo.md",
-    "Webdev/Week 7 mongodb/Setting up Mongo db.md",
     "Webdev/Week 7 mongodb/todo table.png",
     "Webdev/Week 8 Course selling app backend/coursejs.png",
     "Webdev/Week 9 React/todo.png",

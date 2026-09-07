@@ -59,9 +59,14 @@ Make sure you have the following installed:
       └─ 👤 author    [ObjectId]  👉 (References 👉 Users._id)
       
 
+## 📂 Folder Structure
+
 Stack-share/
 ├── backend/
 │   ├── index.js          # Entry point for the Express server
+│   ├── db/               # 👈 MongoDB connection and Mongoose models
+│   │   ├── db.js         # Connection logic
+│   │   └── models.js     # User and Project schemas
 │   ├── middleware/       # JWT auth and error handling middlewares
 │   ├── routes/           # API route definitions (auth, projects)
 │   └── types.js          # Zod schemas for input validation
