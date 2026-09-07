@@ -3,3 +3,4 @@
 - It follows OOPs concept
 - Type : Unicast ,multicast ,predefined delegate,generic
 - action,function,predecate
+- Syntax-acess modifier,delegate keyword,return type,delegate name,parameter list
