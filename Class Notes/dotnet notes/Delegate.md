@@ -1,0 +1,5 @@
+- Delegate is an reference type which can hold an eddress of method
+- it is type safe
+- It follows OOPs concept
+- Type : Unicast ,multicast ,predefined delegate,generic
+- action,function,predecate
