@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 8 Course selling app backend/Course selling app.md",
+                "file": "Project/Stack share.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course selling app"
+              "title": "Stack share"
             }
           }
         ]
@@ -219,6 +219,7 @@
   },
   "active": "d49d20a5f30f2747",
   "lastOpenFiles": [
+    "Webdev/Week 8 Course selling app backend/Course selling app.md",
     "Webdev/Week 7 mongodb/Creating the backend of a todo app.md",
     "Webdev/Week 7 mongodb/What are databases.md",
     "Webdev/Week 7 mongodb/Setting up Mongo db.md",
@@ -226,7 +227,6 @@
     "Webdev/Week 7 mongodb/Relationships in mongo.md",
     "Webdev/Week 7 mongodb/MongoDB and NoSQL databases.md",
     "Project/Stack share.md",
-    "Webdev/Week 8 Course selling app backend/Course selling app.md",
     "Webdev/Week 5 Express, Git ,Middleware/Create HTTP Server.md",
     "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
     "Webdev/Week 5 Express, Git ,Middleware/Routes.md",
