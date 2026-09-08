@@ -10,3 +10,4 @@ Predefine Delegates -:
 
 Syntax to declare delegate -:
 	Access_Modifier  Delegate_Keyword  Return_Type Name_of_Delegate(List of Parameters)
+
