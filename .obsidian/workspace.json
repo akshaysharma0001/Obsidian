@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d49d20a5f30f2747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.User Experience (UX)"
-            }
-          },
-          {
             "id": "01491e839cb91934",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
-                "mode": "source",
-                "source": false
+                "file": "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2.Basics Colors"
+              "icon": "lucide-file-text",
+              "title": "Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,6 +218,13 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
+    "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
+    "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
+    "Webdev/Week 13 TailWind",
+    "Webdev/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
+    "Webdev/Week 12 UI UX/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
+    "Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
     "Webdev/Week 12 UI UX/UI UX Primitives/1.Basics Typography.md",
     "Webdev/Week 12 UI UX/UI UX Primitives/10.Resources.md",
     "Webdev/Week 12 UI UX/images",
@@ -242,11 +232,9 @@
     "Webdev/Week 12 UI UX/UI UX Primitives/8.Web Interactions (Pt 2).md",
     "Webdev/Week 12 UI UX/UI UX Primitives.md",
     "Webdev/Week 12 UI UX/UI UX Primitives/7.UI Frontend Designing.md",
-    "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
     "Webdev/Week 12 UI UX/UI UX Primitives/4.User Interface (UI).md",
     "Webdev/Week 12 UI UX/UI UX Primitives/4.UI Frontend Development (Pt 2).md",
     "Webdev/Week 12 UI UX/UI UX Primitives/3.Introduction to UI UX.md",
-    "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
     "Class Notes/dotnet notes/Delegate.md",
     "Webdev/Week 12 UI UX/images/UI Frontend Development (Pt 2)/image.png",
     "Webdev/Week 12 UI UX/images/UI Frontend Development (Pt 2)",
@@ -262,10 +250,6 @@
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image 1.png",
     "Webdev/Week 12 UI UX/images/User Experience (UX)",
     "Webdev/Week 12 UI UX/images/User Interface (UI)",
-    "Webdev/Week 12 UI UX/images/Introduction to UI UX",
-    "Webdev/Week 12 UI UX/images/Basics Typography",
-    "Webdev/Week 12 UI UX/images/Basics Colors",
-    "Webdev/Week 12 UI UX/UI UX Primitives",
     "Class Notes/dotnet notes/Introduction.md",
     "Project/Stack share.md",
     "Webdev/Week 7 mongodb/Setting up Mongo db.md",
@@ -278,7 +262,6 @@
     "Webdev/Week 5 Express, Git ,Middleware/Create HTTP Server.md",
     "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
     "Webdev/Week 5 Express, Git ,Middleware/Routes.md",
-    "Webdev/Week 4 Express,npm basics/Status Codes.md",
-    "Project"
+    "Webdev/Week 4 Express,npm basics/Status Codes.md"
   ]
 }
