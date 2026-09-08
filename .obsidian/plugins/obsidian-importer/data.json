@@ -3,7 +3,7 @@
   "outputLocations": {},
   "outputSettings": {
     "notion": {
-      "folder": "WebDev",
+      "folder": "Webdev/Week 12 UI UX",
       "attachments": {
         "mode": "vault",
         "path": ""
@@ -14,7 +14,7 @@
   },
   "onenoteAttachments": {},
   "sourceFolders": {
-    "notion": "C:\\Users\\User\\Downloads"
+    "notion": "/home/akshay/Downloads"
   },
-  "lastSourceFolder": "C:\\Users\\User\\Downloads"
+  "lastSourceFolder": "/home/akshay/Downloads"
 }
