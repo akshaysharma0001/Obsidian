@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/dotnet notes/Delegate.md",
+                "file": "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delegate"
+              "title": "5.User Experience (UX)"
+            }
+          },
+          {
+            "id": "01491e839cb91934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Basics Colors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,13 +229,44 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "d49d20a5f30f2747",
+  "active": "01491e839cb91934",
   "lastOpenFiles": [
-    "Class Notes/dotnet notes/Introduction.md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/1.Basics Typography.md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/10.Resources.md",
+    "Webdev/Week 12 UI UX/images",
+    "Webdev/Week 12 UI UX/UI UX Primitives/9.Branding (good to know).md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/8.Web Interactions (Pt 2).md",
+    "Webdev/Week 12 UI UX/UI UX Primitives.md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/7.UI Frontend Designing.md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/4.User Interface (UI).md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/4.UI Frontend Development (Pt 2).md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/3.Introduction to UI UX.md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
     "Class Notes/dotnet notes/Delegate.md",
+    "Webdev/Week 12 UI UX/images/UI Frontend Development (Pt 2)/image.png",
+    "Webdev/Week 12 UI UX/images/UI Frontend Development (Pt 2)",
+    "Webdev/Week 12 UI UX/images/UI Frontend Designing/image.png",
+    "Webdev/Week 12 UI UX/images/UI Frontend Designing/image 2.png",
+    "Webdev/Week 12 UI UX/images/UI Frontend Designing/image 1.png",
+    "Webdev/Week 12 UI UX/images/UI Frontend Designing",
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image.png",
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 5.png",
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 4.png",
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 3.png",
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 2.png",
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 1.png",
+    "Webdev/Week 12 UI UX/images/User Experience (UX)",
+    "Webdev/Week 12 UI UX/images/User Interface (UI)",
+    "Webdev/Week 12 UI UX/images/Introduction to UI UX",
+    "Webdev/Week 12 UI UX/images/Basics Typography",
+    "Webdev/Week 12 UI UX/images/Basics Colors",
+    "Webdev/Week 12 UI UX/UI UX Primitives",
+    "Class Notes/dotnet notes/Introduction.md",
     "Project/Stack share.md",
     "Webdev/Week 7 mongodb/Setting up Mongo db.md",
     "Webdev/Week 7 mongodb/Seeding data into db.md",
@@ -233,37 +279,6 @@
     "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
     "Webdev/Week 5 Express, Git ,Middleware/Routes.md",
     "Webdev/Week 4 Express,npm basics/Status Codes.md",
-    "Webdev/Week 4 Express,npm basics/Response.md",
-    "Webdev/Week 4 Express,npm basics/NPM.md",
-    "Webdev/Week 4 Express,npm basics/Methods.md",
-    "Webdev/Week 4 Express,npm basics/Headers.md",
-    "Webdev/Week 4 Express,npm basics/Express basic.md",
-    "Project",
-    "Webdev/Week 11 recoil/Jotai.md",
-    "Webdev/Week 12 UI UX",
-    "Webdev/Week 9 React/24. Introducing recoil.md",
-    "Webdev/Week 11 recoil/Recoil vs context api.md",
-    "Webdev/Week 11 recoil/Recoil.md",
-    "Webdev/Week 11 recoil/Pasted image 20260905163610.png",
-    "Webdev/Week 11 recoil/Pasted image 20260905163431.png",
-    "Webdev/Week 9 React/19. Custom hooks.md",
-    "Webdev/Week 11 recoil",
-    "Webdev/Week 9 React/23. Testing the context api.md",
-    "Webdev/Week 10 rolling up state,prop drilling ,context api/Code.md",
-    "Webdev/Week 10 rolling up state,prop drilling ,context api",
-    "Webdev/Week 7 mongodb/todo table.png",
-    "Webdev/Week 8 Course selling app backend/coursejs.png",
-    "Webdev/Week 9 React/todo.png",
-    "Unconfirmed 66426.crdownload",
-    "Webdev/Week 9 React/5.1-1.pdf.pptx",
-    "Webdev/Week 9 React/5.1-1.pdf.pdf",
-    "Webdev/Week 5 Express, Git ,Middleware/axios sum.png",
-    "Webdev/Week 6 authentication (zod ,jwt)/token example.png",
-    "Webdev/Week 9 React",
-    "Webdev/Week 7 mongodb/passwordformat.png",
-    "Webdev/Week 8 Course selling app backend/databaSchema.png",
-    "Pasted image 20260830061301 1.png",
-    "Webdev/Week 8 Course selling app backend",
-    "Webdev/Week 7 mongodb"
+    "Project"
   ]
 }
