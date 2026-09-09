@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 9 React/3. useState.md",
+                "file": "Webdev/Week 13 TailWind/Tailwind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. useState"
+              "title": "Tailwind"
             }
           }
         ]
@@ -220,6 +220,9 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
+    "Webdev/Week 13 TailWind/Tailwind.md",
+    "Webdev/Week 9 React/3. useState.md",
     "Webdev/Week 9 React/INDEX.md",
     "Webdev/Week 9 React/2. Components.md",
     "DSA/DSAVL.md",
@@ -235,7 +238,6 @@
     "DSA/gemini-code-1788915812546.py",
     "DSA/Unconfirmed 800718.crdownload",
     "DSA/Unconfirmed 326894.crdownload",
-    "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
     "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
     "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
     "Webdev/Week 13 TailWind",
@@ -262,9 +264,6 @@
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image 2.png",
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image 1.png",
     "Class Notes/dotnet notes/Introduction.md",
-    "Project/Stack share.md",
-    "Webdev/Week 7 mongodb/Setting up Mongo db.md",
-    "Webdev/Week 7 mongodb/Seeding data into db.md",
-    "Webdev/Week 8 Course selling app backend/Course selling app.md"
+    "Project/Stack share.md"
   ]
 }
