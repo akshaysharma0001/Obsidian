@@ -1,4 +1,7 @@
-videos = [
+import json
+import os
+
+VIDEOS = [
     ("Week 0 - DSA Orientation", "10:52", "Phase 1: Basics & Orientation"),
     ("Week 1 - DSA | Introduction to C++", "2:27:02", "Phase 1: Basics & Orientation"),
     ("Week 2 - DSA | Loops and Pattern Printing", "2:37:56", "Phase 1: Basics & Orientation"),
@@ -64,7 +67,7 @@ md_content = "# 🚀 The Ultimate DSA Mastery Tracker\n\n> *\"Consistency is mor
 current_phase = ""
 total_seconds = 0
 
-for title, duration, phase in videos:
+for title, duration, phase in VIDEOS:
     parts = duration.split(':')
     if len(parts) == 3:
         h, m, s = map(int, parts)
@@ -93,7 +96,8 @@ md_content += f"""
 | 🔵 **Total** | **`{total_hours:.2f} hrs`** | **`100.00%`** |
 """
 
-with open('/mnt/data/dsa_beautified_tracker.md', 'w') as f:
+# SAVING LOCALLY AS DSAVL.md
+with open('DSAVL.md', 'w') as f:
     f.write(md_content)
 
 # Generate Dynamic HTML file
@@ -151,7 +155,7 @@ html_content = f"""<!DOCTYPE html>
 """
 
 current_phase = ""
-for i, (title, duration, phase) in enumerate(videos):
+for i, (title, duration, phase) in enumerate(VIDEOS):
     parts = duration.split(':')
     if len(parts) == 3:
         h, m, s = map(int, parts)
@@ -209,7 +213,8 @@ html_content += f"""
 </html>
 """
 
-with open('/mnt/data/dsa_dynamic_tracker.html', 'w') as f:
+# SAVING LOCALLY AS DSAVL.html
+with open('DSAVL.html', 'w') as f:
     f.write(html_content)
 
-print("Files generated successfully.")
+print("DSAVL.md and DSAVL.html generated successfully in your current folder!")
