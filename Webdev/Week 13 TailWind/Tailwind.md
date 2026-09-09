@@ -1,1 +1,4 @@
 #### SideBar
+- hidden 
+- block
+- transition 
