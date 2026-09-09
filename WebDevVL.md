@@ -85,12 +85,12 @@
 
 ## Week 12 - UI/UX
 
-- [ ] Week 12.1 | Ui/Ux Primitives by Keshav - Part 1 — 2:29:01
-- [ ] Week 12.2 | Ui/Ux Primitives by Keshav - Part 2 — 2:17:27
+- [x] Week 12.1 | Ui/Ux Primitives by Keshav - Part 1 — 2:29:01
+- [x] Week 12.2 | Ui/Ux Primitives by Keshav - Part 2 — 2:17:27
 
 ## Week 13 - Tailwind
 
-- [ ] Week 13.1 | Tailwind, ref arrays and building components — 2:12:13
+- [x] Week 13.1 | Tailwind, ref arrays and building components — 2:12:13
 - [ ] Week 13.2 | Tailwind Part 2, Creating sidebars — 2:03:56
 
 ---
