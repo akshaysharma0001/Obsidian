@@ -11,12 +11,14 @@
             "id": "01491e839cb91934",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf"
+                "file": "DSA/DSA Resources.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style"
+              "icon": "lucide-file",
+              "title": "DSA Resources"
             }
           }
         ]
@@ -218,8 +220,9 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
-    "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
     "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
+    "DSA/DSA Resources.md",
+    "Webdev/Week 12 UI UX/UI UX Primitives/5.User Experience (UX).md",
     "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
     "Webdev/Week 13 TailWind",
     "Webdev/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
@@ -261,7 +264,6 @@
     "Webdev/Week 7 mongodb/MongoDB and NoSQL databases.md",
     "Webdev/Week 5 Express, Git ,Middleware/Create HTTP Server.md",
     "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
-    "Webdev/Week 5 Express, Git ,Middleware/Routes.md",
-    "Webdev/Week 4 Express,npm basics/Status Codes.md"
+    "Webdev/Week 5 Express, Git ,Middleware/Routes.md"
   ]
 }
