@@ -1,86 +1,97 @@
 # 🚀 The Ultimate DSA Mastery Tracker
+*"Consistency is more important than intensity." Track your journey here.*
 
-> *"Consistency is more important than intensity."* Track your journey here.
+## Phase 1: Basics & Orientation
+- [x] Week 0 - DSA Orientation ⏳ [duration:: 10m 52s]
+- [ ] Week 1 - DSA | Introduction to C++ ⏳ [duration:: 2h 27m 2s]
+- [ ] Week 2 - DSA | Loops and Pattern Printing ⏳ [duration:: 2h 37m 56s]
+- [ ] Week 2.1 - DSA | Pattern Printing Solutions (Offline) ⏳ [duration:: 1h 11m 49s]
+- [ ] Week 3 - DSA | Functions ⏳ [duration:: 2h 47m 25s]
 
+## Phase 2: Arrays, Strings & Math
+- [ ] Week 4 - DSA | Arrays ⏳ [duration:: 2h 31m 5s]
+- [ ] Week 5 - DSA | Strings / 2D Arrays ⏳ [duration:: 2h 54m 24s]
+- [ ] Week 6 - DSA | Sorting & Searching Basics ⏳ [duration:: 2h 15m 33s]
+- [ ] Week 7 - DSA | Mixed Problem Solving Session ⏳ [duration:: 1h 57m 3s]
+- [ ] Week 8 - DSA | Time and space complexity ⏳ [duration:: 2h 14m 5s]
+- [ ] Week 9 - DSA | Array Techniques ⏳ [duration:: 2h 31m 20s]
+- [ ] Week 10 - DSA | Sets and Maps ⏳ [duration:: 1h 38m 43s]
+- [ ] Week 10.1 - DSA | Sets and Maps (Offline) ⏳ [duration:: 1h 3m 35s]
+- [ ] Week 11 - DSA | Two Pointers / Sliding Window ⏳ [duration:: 2h 34m 59s]
+- [ ] Week 12 - DSA | Interview Problems ⏳ [duration:: 2h 23m 58s]
+- [ ] Week 13 - DSA | Binary Search ⏳ [duration:: 1h 18m 57s]
+- [ ] Week 13.1 - DSA | Binary Search (Offline) ⏳ [duration:: 1h 26m 38s]
+- [ ] Week 14 - DSA | Number Theory Basics ⏳ [duration:: 2h 11m 28s]
+- [ ] Week 15 - DSA | Bit Manipulation ⏳ [duration:: 2h 24m 2s]
+- [ ] Week 15.1 - DSA | Bit Manipulation - Part 2 ⏳ [duration:: 2h 27m 41s]
 
-### Phase 1: Basics & Orientation
+## Phase 3: Recursion, Backtracking & Sorting
+- [ ] Week 16 - DSA | Recursion ⏳ [duration:: 2h 8m 58s]
+- [ ] Week 17 - DSA | Recursion - II ⏳ [duration:: 2h 17m 51s]
+- [ ] Week 18 - DSA | Backtracking - I ⏳ [duration:: 1h 56m 50s]
+- [ ] Week 19.1 - DSA | Backtracking - II ⏳ [duration:: 2h 3m 36s]
+- [ ] Week 19.2 - DSA | Backtracking - III ⏳ [duration:: 2h 8m 21s]
+- [ ] Week 20.1 - DSA | Sorting - I ⏳ [duration:: 2h 15m 33s]
+- [ ] Week 20.2 - DSA | Sorting - II ⏳ [duration:: 2h 28m 31s]
+- [ ] Week 21 - DSA | Sorting - III ⏳ [duration:: 2h 28m 45s]
+
+## Phase 4: Linked Lists & Memory
+- [ ] Week 22.1 - DSA | Pointers and Memory Management ⏳ [duration:: 2h 31m 39s]
+- [ ] Week 22.2 - DSA | Pointers and Memory Management - II (Pt 1) ⏳ [duration:: 2h 13m 11s]
+- [ ] Week 22.2 - DSA | Pointers and Memory Management - II (Pt 2) ⏳ [duration:: 8m 9s]
+- [ ] Week 23.1 - DSA | Linked List - I ⏳ [duration:: 2h 28m 28s]
+- [ ] Week 23.2 - DSA | Linked List - II ⏳ [duration:: 2h 20m 56s]
+- [ ] Week 24.1 - DSA | Linked List - III ⏳ [duration:: 2h 51m 7s]
+- [ ] Week 24.2 - DSA | Linked List - IV ⏳ [duration:: 2h 30m 33s]
+
+## Phase 5: Stacks, Queues & Trees
+- [ ] Week 25 - DSA | Stack & Queue - I ⏳ [duration:: 2h 9m 28s]
+- [ ] Week 26 - DSA | Stack & Queue - II ⏳ [duration:: 2h 43m 15s]
+- [ ] Week 26.2 - DSA | Stack & Queue - III ⏳ [duration:: 2h 9m 48s]
+- [ ] Week 27.1 - DSA | Interview Problems ⏳ [duration:: 1h 49m 26s]
+- [ ] Week 27.2 - DSA | Binary Trees - I ⏳ [duration:: 2h 16m 57s]
+- [ ] Week 28.1 - DSA | Binary Trees - II ⏳ [duration:: 2h 32m 8s]
+- [ ] Week 29 - DSA | Binary Search Trees ⏳ [duration:: 2h 46m 0s]
+- [ ] Week 31.1 - DSA | Binary Trees Misc Solving ⏳ [duration:: 2h 41m 41s]
+- [ ] Week 31.2 - DSA | Binary Trees Misc Solving - II ⏳ [duration:: 2h 33m 19s]
+
+## Phase 6: Heaps, Greedy & DP
+- [ ] Heap - I ⏳ [duration:: 1h 34m 18s]
+- [ ] Heap - II ⏳ [duration:: 53m 6s]
+- [ ] Heap - III ⏳ [duration:: 2h 36m 25s]
+- [ ] Week 33.1 - DSA | Heaps - Revision ⏳ [duration:: 2h 1m 46s]
+- [ ] Week 33.2 - DSA | Greedy ⏳ [duration:: 2h 28m 40s]
+- [ ] Week 34 - DSA | Greedy - II ⏳ [duration:: 2h 33m 40s]
+- [ ] DP Basics (Offline Video) ⏳ [duration:: 1h 42m 54s]
+- [ ] DP: 0/1 Knapsack (Offline) ⏳ [duration:: 2h 16m 2s]
+- [ ] DP: Unbounded Knapsack (Offline) ⏳ [duration:: 2h 6m 45s]
+
 ---
-- [ ] **Week 0 - DSA Orientation** ⏳ `10:52`
-- [ ] **Week 1 - DSA | Introduction to C++** ⏳ `2:27:02`
-- [ ] **Week 2 - DSA | Loops and Pattern Printing** ⏳ `2:37:56`
-- [ ] **Week 2.1 - DSA | Pattern Printing Solutions (Offline)** ⏳ `1:11:49`
-- [ ] **Week 3 - DSA | Functions** ⏳ `2:47:25`
 
-### Phase 2: Arrays, Strings & Math
----
-- [ ] **Week 4 - DSA | Arrays** ⏳ `2:31:05`
-- [ ] **Week 5 - DSA | Strings / 2D Arrays** ⏳ `2:54:24`
-- [ ] **Week 6 - DSA | Sorting & Searching Basics** ⏳ `2:15:33`
-- [ ] **Week 7 - DSA | Mixed Problem Solving Session** ⏳ `1:57:03`
-- [ ] **Week 8 - DSA | Time and space complexity** ⏳ `2:14:05`
-- [ ] **Week 9 - DSA | Array Techniques** ⏳ `2:31:20`
-- [ ] **Week 10 - DSA | Sets and Maps** ⏳ `1:38:43`
-- [ ] **Week 10.1 - DSA | Sets and Maps (Offline)** ⏳ `1:03:35`
-- [ ] **Week 11 - DSA | Two Pointers / Sliding Window** ⏳ `2:34:59`
-- [ ] **Week 12 - DSA | Interview Problems** ⏳ `2:23:58`
-- [ ] **Week 13 - DSA | Binary Search** ⏳ `1:18:57`
-- [ ] **Week 13.1 - DSA | Binary Search (Offline)** ⏳ `1:26:38`
-- [ ] **Week 14 - DSA | Number Theory Basics** ⏳ `2:11:28`
-- [ ] **Week 15 - DSA | Bit Manipulation** ⏳ `2:24:02`
-- [ ] **Week 15.1 - DSA | Bit Manipulation - Part 2** ⏳ `2:27:41`
+```dataviewjs
+let tasks = dv.current().file.tasks;
+let totalHrs = 0;
+let completedHrs = 0;
 
-### Phase 3: Recursion, Backtracking & Sorting
----
-- [ ] **Week 16 - DSA | Recursion** ⏳ `2:08:58`
-- [ ] **Week 17 - DSA | Recursion - II** ⏳ `2:17:51`
-- [ ] **Week 18 - DSA | Backtracking - I** ⏳ `1:56:50`
-- [ ] **Week 19.1 - DSA | Backtracking - II** ⏳ `2:03:36`
-- [ ] **Week 19.2 - DSA | Backtracking - III** ⏳ `2:08:21`
-- [ ] **Week 20.1 - DSA | Sorting - I** ⏳ `2:15:33`
-- [ ] **Week 20.2 - DSA | Sorting - II** ⏳ `2:28:31`
-- [ ] **Week 21 - DSA | Sorting - III** ⏳ `2:28:45`
+for (let t of tasks) {
+    if (t.duration) {
+        // Dataview natively parses the duration field into a luxon Duration object
+        let hrs = t.duration.as ? t.duration.as('hours') : 0;
+        totalHrs += hrs;
+        if (t.completed) {
+            completedHrs += hrs;
+        }
+    }
+}
 
-### Phase 4: Linked Lists & Memory
----
-- [ ] **Week 22.1 - DSA | Pointers and Memory Management** ⏳ `2:31:39`
-- [ ] **Week 22.2 - DSA | Pointers and Memory Management - II (Pt 1)** ⏳ `2:13:11`
-- [ ] **Week 22.2 - DSA | Pointers and Memory Management - II (Pt 2)** ⏳ `8:09`
-- [ ] **Week 23.1 - DSA | Linked List - I** ⏳ `2:28:28`
-- [ ] **Week 23.2 - DSA | Linked List - II** ⏳ `2:20:56`
-- [ ] **Week 24.1 - DSA | Linked List - III** ⏳ `2:51:07`
-- [ ] **Week 24.2 - DSA | Linked List - IV** ⏳ `2:30:33`
+let remainHrs = totalHrs - completedHrs;
+let pct = totalHrs === 0 ? "0.00" : ((completedHrs / totalHrs) * 100).toFixed(2);
+let remainPct = totalHrs === 0 ? "0.00" : (100 - parseFloat(pct)).toFixed(2);
 
-### Phase 5: Stacks, Queues & Trees
----
-- [ ] **Week 25 - DSA | Stack & Queue - I** ⏳ `2:09:28`
-- [ ] **Week 26 - DSA | Stack & Queue - II** ⏳ `2:43:15`
-- [ ] **Week 26.2 - DSA | Stack & Queue - III** ⏳ `2:09:48`
-- [ ] **Week 27.1 - DSA | Interview Problems** ⏳ `1:49:26`
-- [ ] **Week 27.2 - DSA | Binary Trees - I** ⏳ `2:16:57`
-- [ ] **Week 28.1 - DSA | Binary Trees - II** ⏳ `2:32:08`
-- [ ] **Week 29 - DSA | Binary Search Trees** ⏳ `2:46:00`
-- [ ] **Week 31.1 - DSA | Binary Trees Misc Solving** ⏳ `2:41:41`
-- [ ] **Week 31.2 - DSA | Binary Trees Misc Solving - II** ⏳ `2:33:19`
+dv.header(2, "📊 Progress Summary");
 
-### Phase 6: Heaps, Greedy & DP
----
-- [ ] **Heap - I** ⏳ `1:34:18`
-- [ ] **Heap - II** ⏳ `53:06`
-- [ ] **Heap - III** ⏳ `2:36:25`
-- [ ] **Week 33.1 - DSA | Heaps - Revision** ⏳ `2:01:46`
-- [ ] **Week 33.2 - DSA | Greedy** ⏳ `2:28:40`
-- [ ] **Week 34 - DSA | Greedy - II** ⏳ `2:33:40`
-- [ ] **DP Basics (Offline Video)** ⏳ `1:42:54`
-- [ ] **DP: 0/1 Knapsack (Offline)** ⏳ `2:16:02`
-- [ ] **DP: Unbounded Knapsack (Offline)** ⏳ `2:06:45`
-
-<br>
-
-### 📊 Progress Summary
-*(Note: Standard Markdown files are static. To use this, manually update the checked boxes and calculate your hours below, or use the dynamic HTML file provided!)*
-
-| Metric | Hours | Percentage |
-| :--- | :--- | :--- |
-| 🟢 **Completed** | `0.00 / 113.94 hrs` | `0.00%` |
-| 🟡 **Remaining** | `113.94 / 113.94 hrs` | `100.00%` |
-| 🔵 **Total** | **`113.94 hrs`** | **`100.00%`** |
+dv.table(["Metric", "Hours", "Percentage"], [
+    ["🟢 Completed", `${completedHrs.toFixed(2)} / ${totalHrs.toFixed(2)} hrs`, `${pct}%`],
+    ["🟡 Remaining", `${remainHrs.toFixed(2)} / ${totalHrs.toFixed(2)} hrs`, `${remainPct}%`],
+    ["🔵 Total", `${totalHrs.toFixed(2)} hrs`, "100.00%"]
+]);
