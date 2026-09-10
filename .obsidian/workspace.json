@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSAVL.md",
+                "file": "DSA/DSA Resources.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSAVL"
+              "title": "DSA Resources"
             }
           }
         ]
@@ -220,11 +220,11 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "DSA/DSAVL.md",
     "DSA/DSA Resources.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
     "DSA/Unconfirmed 579850.crdownload",
     "DSA/Pattern.md",
-    "DSA/DSAVL.md",
     "DSA/dsa class qn.md",
     "Webdev/Week 13 TailWind/Tailwind.md",
     "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
