@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 2 async js, promise/Promises.md",
+                "file": "Webdev/Week 2 async js, promise/Async Await.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promises"
+              "title": "Async Await"
             }
           }
         ]
@@ -221,6 +221,8 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "Webdev/Week 2 async js, promise/JS architecture.md",
+    "Webdev/Week 2 async js, promise/Promises.md",
     "Webdev/Week 2 async js, promise/map ,filter ,arrow fn.md",
     "Webdev/Week 2 async js, promise/Inheritance.md",
     "Webdev/Week 2 async js, promise/Async JS.md",
@@ -255,8 +257,6 @@
     "Webdev/Week 12 UI UX/UI UX Primitives/9.Branding (good to know).md",
     "Webdev/Week 12 UI UX/UI UX Primitives/8.Web Interactions (Pt 2).md",
     "Webdev/Week 12 UI UX/UI UX Primitives.md",
-    "Webdev/Week 12 UI UX/UI UX Primitives/7.UI Frontend Designing.md",
-    "Webdev/Week 12 UI UX/UI UX Primitives/4.User Interface (UI).md",
     "Webdev/Week 12 UI UX/images/UI Frontend Development (Pt 2)/image.png",
     "Webdev/Week 12 UI UX/images/UI Frontend Designing/image.png",
     "Webdev/Week 12 UI UX/images/UI Frontend Designing/image 2.png",
