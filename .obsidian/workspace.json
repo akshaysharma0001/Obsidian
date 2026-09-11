@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 3 DOM/DOM.md",
+                "file": "Webdev/Week 4 Express,npm basics/HTTP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM"
+              "title": "HTTP"
             }
           }
         ]
@@ -221,7 +221,9 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "Webdev/Week 4 Express,npm basics/Body.md",
     "Webdev/Week 3 DOM/Bash.md",
+    "Webdev/Week 3 DOM/DOM.md",
     "Webdev/Week 2 async js, promise/Async Await.md",
     "Webdev/Week 2 async js, promise/JS architecture.md",
     "Webdev/Week 2 async js, promise/Promises.md",
@@ -255,8 +257,6 @@
     "Webdev/Week 12 UI UX/UI UX Primitives/2.Basics Colors.md",
     "Webdev/Week 13 TailWind",
     "Webdev/Week 12 UI UX/UI UX Primitives/1.Basics Typography.md",
-    "Webdev/Week 12 UI UX/UI UX Primitives/10.Resources.md",
-    "Webdev/Week 12 UI UX/UI UX Primitives/9.Branding (good to know).md",
     "Webdev/Week 12 UI UX/images/UI Frontend Development (Pt 2)/image.png",
     "Webdev/Week 12 UI UX/images/UI Frontend Designing/image.png",
     "Webdev/Week 12 UI UX/images/UI Frontend Designing/image 2.png",
