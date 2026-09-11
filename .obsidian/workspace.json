@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 4 Express,npm basics/Express basic.md",
+                "file": "Webdev/Week 5 Express, Git ,Middleware/Commonly used middlewares.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express basic"
+              "title": "Commonly used middlewares"
             }
           }
         ]
@@ -220,6 +220,8 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "Webdev/Week 7 mongodb/Creating the backend of a todo app.md",
+    "Webdev/Week 4 Express,npm basics/Express basic.md",
     "Webdev/Week 4 Express,npm basics/NPM.md",
     "Webdev/Week 4 Express,npm basics/Status Codes.md",
     "Webdev/Week 4 Express,npm basics/Methods.md",
@@ -247,8 +249,6 @@
     "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
     "Webdev/Week 9 React/3. useState.md",
     "Webdev/Week 9 React/INDEX.md",
-    "Webdev/Week 9 React/2. Components.md",
-    "Webdev/Week 9 React/1. Starting a react project locally.md",
     "DSA/DSAVL.html",
     "DSA/Unconfirmed 289209.crdownload",
     "DSA/track.py",
