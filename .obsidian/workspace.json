@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDevVL.md",
+                "file": "Webdev/Week 2 async js, promise/Async JS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebDevVL"
+              "title": "Async JS"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.02734375
+    "width": 346.02734375,
+    "collapsed": true
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -220,6 +221,9 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "Webdev/Week 1 html css/CSS.md",
+    "Webdev/Week 1 html css/Classes in JS.md",
+    "WebDevVL.md",
     "DSA/DSA Resources.md",
     "DSA/DSAVL.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
@@ -232,7 +236,6 @@
     "Webdev/Week 9 React/INDEX.md",
     "Webdev/Week 9 React/2. Components.md",
     "Webdev/Week 9 React/1. Starting a react project locally.md",
-    "WebDevVL.md",
     "DSA/Hashing.md",
     "DSA/DSAVL.html",
     "DSA/Unconfirmed 289209.crdownload",
@@ -263,7 +266,6 @@
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image 4.png",
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image 3.png",
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image 2.png",
-    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 1.png",
-    "Class Notes/dotnet notes/Introduction.md"
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 1.png"
   ]
 }
