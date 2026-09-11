@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 4 Express,npm basics/Status Codes.md",
+                "file": "Webdev/Week 4 Express,npm basics/Express basic.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Status Codes"
+              "title": "Express basic"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.02734375,
-    "collapsed": true
+    "width": 346.02734375
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -221,11 +220,12 @@
   },
   "active": "01491e839cb91934",
   "lastOpenFiles": [
+    "Webdev/Week 4 Express,npm basics/NPM.md",
+    "Webdev/Week 4 Express,npm basics/Status Codes.md",
+    "Webdev/Week 4 Express,npm basics/Methods.md",
     "Webdev/Week 4 Express,npm basics/HTTP.md",
     "Webdev/Week 4 Express,npm basics/Body.md",
-    "Webdev/Week 4 Express,npm basics/Status Codes.md",
     "Webdev/Week 4 Express,npm basics/Response.md",
-    "Webdev/Week 4 Express,npm basics/Methods.md",
     "Webdev/Week 3 DOM/Bash.md",
     "Webdev/Week 3 DOM/DOM.md",
     "Webdev/Week 2 async js, promise/Async Await.md",
@@ -249,7 +249,6 @@
     "Webdev/Week 9 React/INDEX.md",
     "Webdev/Week 9 React/2. Components.md",
     "Webdev/Week 9 React/1. Starting a react project locally.md",
-    "DSA/Hashing.md",
     "DSA/DSAVL.html",
     "DSA/Unconfirmed 289209.crdownload",
     "DSA/track.py",
