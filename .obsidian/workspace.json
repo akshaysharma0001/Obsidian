@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Commonly used middlewares"
             }
+          },
+          {
+            "id": "aa2a9a2621ac6fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview prep"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.02734375,
-    "collapsed": true
+    "width": 346.02734375
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -219,8 +233,10 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "01491e839cb91934",
+  "active": "aa2a9a2621ac6fe8",
   "lastOpenFiles": [
+    "Webdev/Week 5 Express, Git ,Middleware/Commonly used middlewares.md",
+    "Interview prep.md",
     "Webdev/Week 7 mongodb/Creating the backend of a todo app.md",
     "Webdev/Week 4 Express,npm basics/Express basic.md",
     "Webdev/Week 4 Express,npm basics/NPM.md",
@@ -248,8 +264,6 @@
     "DSA/dsa class qn.md",
     "Webdev/Week 13 TailWind/Tailwind.md",
     "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
-    "Webdev/Week 9 React/3. useState.md",
-    "Webdev/Week 9 React/INDEX.md",
     "DSA/DSAVL.html",
     "DSA/Unconfirmed 289209.crdownload",
     "DSA/track.py",
