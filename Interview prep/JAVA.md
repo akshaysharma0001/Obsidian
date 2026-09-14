@@ -9,7 +9,6 @@ Languages like C++ compile code directly into machine language (1s and 0s) for a
 *   **1. Source Code (`.java`):** The human-readable code you type.
 *   **2. Compiler (`javac`):** Translates your code into an intermediate language called **Bytecode (`.class`)**.
 *   **3. JVM (Java Virtual Machine):** A simulated computer running inside your OS. The JVM reads the Bytecode and translates it into the specific machine code for your OS.
-    *   *Plain English:* You write a recipe in English (Source Code). You translate it into a universal symbol language (Bytecode). A chef in Japan and a chef in France (JVMs) both read the symbols and cook the dish using their local equipment.
 
 ### B. JDK vs. JRE vs. JVM
 *   **JVM (Java Virtual Machine):** The engine that actually runs the code.
@@ -140,14 +139,7 @@ class Dog implements Animal {
 ### A. The `static` Keyword
 
 - **Concept:** It means the variable or method belongs to the **Class itself**, not to individual objects created from the class.
-    
       
-    
-- _Analogy:_ In a classroom of 30 students (Objects), each student has their own personal notebook (Instance Variable). But there is only one whiteboard at the front of the room (Static Variable). If one student draws a smiley face on the whiteboard, all 30 students see it.
-    
-      
-    
-
 ### B. The `final` Keyword
 
 - **On a Variable:** It creates a constant. The value can never be changed once assigned.
