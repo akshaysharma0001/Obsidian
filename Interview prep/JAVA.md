@@ -1,7 +1,4 @@
 # Java Complete Mastery & Interview Deep-Dive
-
-> **How to use this vault note:** This guide builds Java concepts from the ground up ("brick by brick"). Read the "Plain English" analogies to build mental models, study the code examples, and memorize the technical definitions for your interview.
-
 ---
 
 ## 1. Java Architecture (How it actually runs)
