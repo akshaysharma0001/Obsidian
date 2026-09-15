@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview prep/MERN.md",
+                "file": "Interview prep/SQL.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MERN"
+              "title": "SQL"
             }
           }
         ],
@@ -235,10 +235,10 @@
   },
   "active": "aa2a9a2621ac6fe8",
   "lastOpenFiles": [
+    "Interview prep/MERN.md",
     "Interview prep/JAVA.md",
     "Interview prep/Others.md",
     "Interview prep/SQL.md",
-    "Interview prep/MERN.md",
     "Interview prep",
     "Interview prep.md",
     "Webdev/Week 5 Express, Git ,Middleware/Commonly used middlewares.md",
