@@ -91,7 +91,7 @@
 ## Week 13 - Tailwind
 
 - [x] Week 13.1 | Tailwind, ref arrays and building components — 2:12:13
-- [ ] Week 13.2 | Tailwind Part 2, Creating sidebars — 2:03:56
+- [x] Week 13.2 | Tailwind Part 2, Creating sidebars — 2:03:56
 
 ---
 
