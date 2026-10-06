@@ -19,3 +19,12 @@ It could be ->
   "phoneNumbers": ["123-456-7890", "987-654-3210"]
 }
 ```
+
+# Ports
+**Port 80**: [HTTP (Hypertext Transfer Protocol)](https://www.geeksforgeeks.org/computer-networks/what-is-ports-in-networking/) for unencrypted web pages.
+**Port 443**: HTTPS (Hypertext Transfer Protocol Secure) for encrypted, secure web traffic.
+**Port 8080 / 8443**: Alternative or proxy ports used for web applications
+**Port 20**: [FTP (File Transfer Protocol)](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers) data transfer.
+**Port 25**: [SMTP (Simple Mail Transfer Protocol)](https://chadura.com/blogs/introduction-to-ports-in-operating-systems/) for routing mail between servers.
+**Port 53**: DNS (Domain Name System) for translating human-readable web addresses into machine-readable IP numbers.
+**Port 445**: SMB (Server Message Block) for sharing files and printers locally on Windows networks.
