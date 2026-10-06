@@ -40,3 +40,14 @@ cleanFile("x.txt").then((data)=>{console.log(data)}).catch((err)=>{console.log(e
 
 
 ![[Promise calling.png]]
+
+# Promise States
+
+A Promise always exists in one of **three mutually exclusive states**: 
+- ⏳ **Pending**: The initial state. The asynchronous operation is still running, and the promise is neither fulfilled nor rejected.
+
+- ✅ **Fulfilled**: The operation completed successfully, and the promise now holds a resulting value. 
+
+- ❌ **Rejected**: The operation failed, and the promise holds a reason or error for the failure. [[1]
+
+Once a promise is either fulfilled or rejected, it is considered **settled**. A settled promise's state is terminal and cannot change again.
