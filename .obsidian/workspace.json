@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/Week 1 html css/Javascript.md",
+                "file": "Webdev/Week 2 async js, promise/Promises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript"
+              "title": "Promises"
             }
           }
         ]
@@ -220,16 +220,22 @@
   },
   "active": "948b6d376f79672c",
   "lastOpenFiles": [
-    "Webdev/Week 1 html css/Classes in JS.md",
-    "Webdev/Week 1 html css/Javascript.md",
+    "Webdev/Week 2 async js, promise/map ,filter ,arrow fn.md",
     "Webdev/Week 2 async js, promise/Promises.md",
+    "Webdev/Week 2 async js, promise/JS architecture.md",
+    "Webdev/Week 2 async js, promise/Js arch.png",
+    "Webdev/Week 2 async js, promise/Inheritance.md",
     "Webdev/Week 2 async js, promise/Async Await.md",
+    "Webdev/Week 1 html css/CSS.md",
+    "Webdev/Week 1 html css/Classes in JS.md",
     "Webdev/Week 2 async js, promise/Async JS.md",
+    "Webdev/Week 1 html css/table demo.png",
+    "Webdev/Week 1 html css/package json file.png",
+    "Webdev/Week 1 html css/Javascript.md",
     "WebDevVL.md",
     "WEB3 VL.md",
     "Webdev/Web dev syllabus.md",
     "Project/Stack share.md",
-    "Webdev/Week 2 async js, promise/Inheritance.md",
     "Devops VL.md",
     "Webdev/Week 5 Express, Git ,Middleware/Commonly used middlewares.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
@@ -244,10 +250,7 @@
     "Interview prep/Others.md",
     "Interview prep/SQL.md",
     "Interview prep/MERN.md",
-    "Interview prep/JAVA.md",
     "Interview prep",
-    "Interview prep.md",
-    "Webdev/Week 7 mongodb/Creating the backend of a todo app.md",
     "DSA/Unconfirmed 579850.crdownload",
     "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
     "DSA/DSAVL.html",
@@ -262,9 +265,6 @@
     "Webdev/Week 12 UI UX/images/UI Frontend Designing/image 1.png",
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image.png",
     "Webdev/Week 12 UI UX/images/User Experience (UX)/image 5.png",
-    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 4.png",
-    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 3.png",
-    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 2.png",
-    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 1.png"
+    "Webdev/Week 12 UI UX/images/User Experience (UX)/image 4.png"
   ]
 }
