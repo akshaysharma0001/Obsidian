@@ -1,2 +1,3 @@
 - [ ] Micro Service
 - [ ] Mono Repo
+- [ ] redis
