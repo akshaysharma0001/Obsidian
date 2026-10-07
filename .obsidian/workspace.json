@@ -35,7 +35,8 @@
               "title": "Learning update 7.10.26"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +233,10 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "948b6d376f79672c",
+  "active": "c54d1b7b8dbe524c",
   "lastOpenFiles": [
-    "FareLabs/Learning update 7.10.26.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
+    "FareLabs/Learning update 7.10.26.md",
     "FareLabs/Todo.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git.md",
     "Webdev/Week 4 Express,npm basics/Express basic.md",
