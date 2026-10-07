@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FareLabs/Todo.md",
+                "file": "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Git & GitHub Complete Guide"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125
+    "width": 297.42578125,
+    "collapsed": true
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -220,8 +221,9 @@
   },
   "active": "948b6d376f79672c",
   "lastOpenFiles": [
-    "Webdev/Week 4 Express,npm basics/Express basic.md",
+    "Webdev/Week 5 Express, Git ,Middleware/Git.md",
     "FareLabs/Todo.md",
+    "Webdev/Week 4 Express,npm basics/Express basic.md",
     "FareLabs",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI todo.md",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI file cleaner.md",
@@ -252,7 +254,6 @@
     "Devops VL.md",
     "Webdev/Week 5 Express, Git ,Middleware/Commonly used middlewares.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
-    "Class Notes/dotnet notes/dot NET Framework Syllabus.md",
     "Interview prep",
     "DSA/Unconfirmed 579850.crdownload",
     "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
