@@ -4,3 +4,5 @@
 - [ ] test catagory error
 - [ ] draft
 - [ ] not following spa
+- [ ] useMemo
+- [ ] 
