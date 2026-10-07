@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FareLabs/Learning update 7.10.26.md",
+                "file": "FareLabs/Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning update 7.10.26"
+              "title": "Todo"
             }
           }
         ],
@@ -249,9 +249,9 @@
   },
   "active": "f9e11df937aa8937",
   "lastOpenFiles": [
+    "FareLabs/Learning update 7.10.26.md",
     "FareLabs/Todo.md",
     "FareLabs/useMemo.md",
-    "FareLabs/Learning update 7.10.26.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git.md",
     "Webdev/Week 4 Express,npm basics/Express basic.md",
