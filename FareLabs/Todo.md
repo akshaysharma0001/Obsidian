@@ -3,3 +3,4 @@
 - [ ] redis
 - [ ] test catagory error
 - [ ] draft
+- [ ] not following spa
