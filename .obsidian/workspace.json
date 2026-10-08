@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/TypeScript/Typescript.md",
+                "file": "Webdev/TypeScript/Typescript Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typescript"
+              "title": "Typescript Introduction"
             }
           },
           {
@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/TypeScript/Typescript.md",
+                "file": "Webdev/TypeScript/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typescript"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "50700839109e2c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types in Typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types in Typescript"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -261,10 +275,11 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "20a29ebc655ee32f",
+  "active": "50700839109e2c07",
   "lastOpenFiles": [
+    "Types in Typescript.md",
     "Webdev/TypeScript/Index.md",
-    "Webdev/TypeScript/Typescript.md",
+    "Webdev/TypeScript/Typescript Introduction.md",
     "FareLabs/Todo.md",
     "Webdev/TypeScript",
     "FareLabs/Learning update 7.10.26.md",
@@ -295,7 +310,6 @@
     "Webdev/Week 1 html css/table demo.png",
     "Webdev/Week 1 html css/package json file.png",
     "Webdev/Week 1 html css/Javascript.md",
-    "WebDevVL.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
     "Interview prep",
     "DSA/Unconfirmed 579850.crdownload",
