@@ -3,7 +3,5 @@
 - [ ] redis
 - [ ] test catagory error
 - [ ] draft
-- [ ] not following spa
 - [ ] useMemo
-- [ ] while creating catagory it only show internal server error not specific cause
 - [ ] Model View control

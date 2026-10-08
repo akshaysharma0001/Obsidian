@@ -20,8 +20,6 @@ something = 42;  // No error
 
 
 ## Type: any
-The `any` type is the most flexible type in TypeScript.
-
-It essentially tells the compiler to skip type checking for a particular variable.
-
-While this can be useful in certain situations, it should be used sparingly as it bypasses TypeScript's type safety features.
+- The `any` type is the most flexible type in TypeScript.
+-  It essentially tells the compiler to skip type checking for a particular variable.
+- While this can be useful in certain situations, it should be used sparingly as it bypasses TypeScript's type safety features.

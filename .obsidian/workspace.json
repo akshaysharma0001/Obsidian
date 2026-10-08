@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript Explicit Types and Inference.md",
+                "file": "FareLabs/Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript Explicit Types and Inference"
+              "title": "Todo"
             }
           },
           {
