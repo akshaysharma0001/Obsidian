@@ -1,4 +1,4 @@
-## JavaScript and TypeScript Primitives
+
 
 - The most basic types in TypeScript are called **primitives**.
 - These types form the building blocks of more complex types in your applications.

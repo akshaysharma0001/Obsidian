@@ -1,2 +1,3 @@
 [[Typescript Introduction]]
-[[Types in Typescript]]
+[[JavaScript and TypeScript Primitives]]
+[[TypeScript Explicit Types and Inference]]
