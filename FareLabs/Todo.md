@@ -5,3 +5,5 @@
 - [ ] draft
 - [ ] useMemo
 - [ ] Model View control
+- [ ] BD page not found
+- [ ] when loggin in with different role its still saying log in succesful
