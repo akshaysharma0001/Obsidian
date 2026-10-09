@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webdev/TypeScript/Typescript Introduction.md",
+                "file": "FareLabs/FARELABS Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typescript Introduction"
+              "title": "FARELABS Software"
             }
           },
           {
@@ -320,14 +320,15 @@
   },
   "active": "eb4b97a175ae3ff1",
   "lastOpenFiles": [
+    "FareLabs/useMemo.md",
+    "FareLabs/FARELABS Software.md",
+    "FareLabs/Todo.md",
+    "FareLabs/Learning update 7.10.26.md",
+    "Webdev/TypeScript/Typescript Introduction.md",
     "Webdev/TypeScript/Index.md",
     "Webdev/TypeScript/TypeScript Explicit Types and Inference.md",
     "Webdev/TypeScript/JavaScript and TypeScript Primitives.md",
-    "Webdev/TypeScript/Typescript Introduction.md",
-    "FareLabs/Todo.md",
     "Webdev/TypeScript",
-    "FareLabs/Learning update 7.10.26.md",
-    "FareLabs/useMemo.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git.md",
     "Webdev/Week 4 Express,npm basics/Express basic.md",
@@ -350,7 +351,6 @@
     "Webdev/Week 2 async js, promise/Promises.md",
     "Webdev/Week 2 async js, promise/map ,filter ,arrow fn.md",
     "Webdev/Week 1 html css/CSS.md",
-    "Webdev/Week 1 html css/Classes in JS.md",
     "Webdev/Week 1 html css/table demo.png",
     "Webdev/Week 1 html css/package json file.png",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
