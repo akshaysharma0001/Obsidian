@@ -17,5 +17,9 @@ The Three Components
 
 - **`process.on('SIGINT', shutdownServer);`**: Listens for a **SIGINT** (Signal Interrupt). This is the signal sent when you press **Ctrl + C** in your terminal to manually interrupt a running process.
 
+*Helmet Middleware*
+- **Helmet** is a Node.js security tool that **automatically configures secure HTTP response headers** to protect your web application from common vulnerabilities (like hacking scripts, clickjacking, and data leaks) by telling browsers how to handle your site safely
 
+*Compression Middleware*
+- compression is primarily handled in two scenarios: **HTTP response compression** for web servers (to shrink payloads like JSON, HTML, and CSS) and **file-system compression** for reading or writing files
 
