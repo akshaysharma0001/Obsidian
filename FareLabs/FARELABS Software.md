@@ -11,7 +11,6 @@
 
 ### Software Flow
 - Frontend url - http://localhost:3000/
-- ![[Pasted image 20261009103047.png|188]]
 - Select Role before login
 	1. PMC
 	2. LAB_HOD
@@ -100,4 +99,8 @@
 	- *Disciplines* -view and add new discipline
 	- *Specification* -view and add new specification
 	- *Units* -view and add new units
-	- 
+	- *Authorised signature* -add and view new signatures
+	- *Attributes*- Add and view attributes
+		- *Types of attributes*-
+			- *Customer Provided Information*-
+			- *User Provided Information*-
