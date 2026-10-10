@@ -68,3 +68,14 @@
 	- Remarks
 	- *View report*
 	- Select parameters and submit report
+
+### LAB_HOD
+- *Dashboard* -It shows samples
+- *Sample allocation*- HOD allocates sample to labs
+- *Pending approval*-Lab assistant uploads the sample result and send it to HOD which appears in this section
+- HOD approves sample by selecting specifications and results
+- Then PMC can print the final report
+- *Settings*-LAB HOD can add inferences (conclusion) and attributes
+
+### LAB
+- *Allocated sample*- 
