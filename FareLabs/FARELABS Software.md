@@ -50,4 +50,21 @@
 		- Select category
 		- Receiving method
 	- After this application number will be generated
-	- J
+	- Job Order
+
+- *Parameters*-select category and sub category of parameter
+- *Draft report*-This is last stage of generating report 
+	- ULR code
+	- Company name
+	- address
+	- Sample name
+	- sample quantity 
+	- booking date
+	- due date
+	- lab info 
+	- customer info
+	- Inference
+	- Template
+	- Remarks
+	- *View report*
+	- Select parameters and submit report
