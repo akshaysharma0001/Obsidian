@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "e6784c5089ba38d5",
+            "id": "be382d4e589cf40d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -247,13 +247,14 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "e6784c5089ba38d5",
+  "active": "be382d4e589cf40d",
   "lastOpenFiles": [
-    "FareLabs/FARELABS Software.md",
+    "Webdev/Week 8 Course selling app backend/Course selling app.md",
     "FareLabs/userMicro.md",
+    "FareLabs/Todo.md",
+    "FareLabs/FARELABS Software.md",
     "Webdev/TypeScript/Typescript Introduction.md",
     "Webdev/TypeScript/Index.md",
-    "FareLabs/Todo.md",
     "Webdev/Week 7 mongodb/Setting up Mongo db.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
     "FareLabs/Learning update 7.10.26.md",
@@ -280,7 +281,6 @@
     "Webdev/Week 2 async js, promise/Inheritance.md",
     "Webdev/Week 2 async js, promise/Async JS.md",
     "Webdev/Week 2 async js, promise/Async Await.md",
-    "Webdev/Week 2 async js, promise/Promises.md",
     "Webdev/Week 1 html css/table demo.png",
     "Webdev/Week 1 html css/package json file.png",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
