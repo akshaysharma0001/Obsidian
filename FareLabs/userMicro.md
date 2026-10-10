@@ -23,3 +23,6 @@ The Three Components
 *Compression Middleware*
 - compression is primarily handled in two scenarios: **HTTP response compression** for web servers (to shrink payloads like JSON, HTML, and CSS) and **file-system compression** for reading or writing files
 
+*Morgan middleware*
+- **Morgan** is ==a popular HTTP request logger middleware== for **Node.js** and Express. It automatically tracks incoming HTTP requests and details about their responses (like method, URL, status code, and response time) and logs them directly to your console or a file
+
