@@ -78,4 +78,26 @@
 - *Settings*-LAB HOD can add inferences (conclusion) and attributes
 
 ### LAB
-- *Allocated sample*- 
+- *Allocated sample*- LAB tests the allocated samples and send report to HOD and then HOD verifies it and send to PMC and finally PMC can generate the report
+
+### ADMIN
+- *Parameters*-
+	- *view parameters*
+	- *Add new parameters*
+- *User info*-
+	- Role management- Edit user roles and permissions
+	- *User management*-
+		- Create new user of any type
+			- PMC ,LAB_HOD ,Manager ,BD ,LAB ,ADMIN
+- *Packages*-
+	- View and edit old packages
+	- add new package
+
+- *Settings* -
+	- *Categories*- add and view new categories
+	- *SubCategories*-add and view new sub categories
+	- *Laboratories* -add and view new labs
+	- *Disciplines* -view and add new discipline
+	- *Specification* -view and add new specification
+	- *Units* -view and add new units
+	- 
