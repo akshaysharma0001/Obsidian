@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FareLabs/FARELABS Software.md",
+                "file": "FareLabs/userMicro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FARELABS Software"
+              "title": "userMicro"
             }
           }
         ],
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125,
-    "collapsed": true
+    "width": 297.42578125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -250,11 +249,12 @@
   },
   "active": "e6784c5089ba38d5",
   "lastOpenFiles": [
+    "FareLabs/FARELABS Software.md",
+    "FareLabs/userMicro.md",
     "Webdev/TypeScript/Typescript Introduction.md",
     "Webdev/TypeScript/Index.md",
     "FareLabs/Todo.md",
     "Webdev/Week 7 mongodb/Setting up Mongo db.md",
-    "FareLabs/FARELABS Software.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
     "FareLabs/Learning update 7.10.26.md",
     "Pasted image 20261009103047.png",
@@ -281,7 +281,6 @@
     "Webdev/Week 2 async js, promise/Async JS.md",
     "Webdev/Week 2 async js, promise/Async Await.md",
     "Webdev/Week 2 async js, promise/Promises.md",
-    "Webdev/Week 2 async js, promise/map ,filter ,arrow fn.md",
     "Webdev/Week 1 html css/table demo.png",
     "Webdev/Week 1 html css/package json file.png",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
