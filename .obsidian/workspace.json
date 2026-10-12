@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA Resources.md",
+                "file": "DSA/dsa class qn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA Resources"
+              "title": "dsa class qn"
             }
           }
         ],
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125,
-    "collapsed": true
+    "width": 297.42578125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -251,8 +250,8 @@
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
     "DSA/DSAVL.md",
-    "DSA/DSA Resources.md",
     "DSA/dsa class qn.md",
+    "DSA/DSA Resources.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
     "FareLabs/userMicro.md",
     "FareLabs/FARELABS Software.md",
