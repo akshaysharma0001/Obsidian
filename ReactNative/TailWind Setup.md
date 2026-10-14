@@ -186,3 +186,133 @@ export function ActionCard({ title, subtitle, badgeText }: CardProps) {
   );
 }
 ```
+
+
+
+# Bulletproof Expo + NativeWind v4 Setup Guide
+
+## 1. Create a Fresh Project
+
+Always start with the clean TypeScript blank template:
+
+```bash
+npx create-expo-app@latest MyApp --template blank-typescript
+cd MyApp
+```
+
+## 2. Install Dependencies (Single Command)
+
+Install NativeWind v4, Tailwind CSS, Babel preset, and safe area handlers together:
+
+```bash
+# Core styling packages
+npm install nativewind@latest tailwindcss@^3.4.0 react-native-reanimated react-native-safe-area-context
+
+# Ensure Babel core preset is installed as a dev dependency
+npm install --save-dev babel-preset-expo
+```
+
+## 3. Configuration Files Checklist
+
+### A. `metro.config.js` (Project Root)
+
+```javascript
+const { getDefaultConfig } = require("expo/metro-config");
+const { withNativeWind } = require("nativewind/metro");
+
+const config = getDefaultConfig(__dirname);
+
+module.exports = withNativeWind(config, { input: "./global.css" });
+```
+
+### B. `global.css` (Project Root)
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+### C. `tailwind.config.js` (Project Root)
+
+```javascript
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./App.{js,jsx,ts,tsx}",
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  presets: [require("nativewind/preset")],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+```
+
+### D. `babel.config.js` (Project Root)
+
+> ⚠️ **Watch spelling:** It must be `babel.config.js`, **never** `bable.config.js`.
+
+```javascript
+module.exports = function (api) {
+  api.cache(true);
+  return {
+    presets: [
+      ["babel-preset-expo", { jsxImportSource: "nativewind" }],
+      "nativewind/babel",
+    ],
+  };
+};
+```
+
+### E. `nativewind-env.d.ts` (Project Root)
+
+Fixes TypeScript warnings on `className` and `import "./global.css"`:
+
+```typescript
+/// <reference types="nativewind/types" />
+
+declare module "*.css";
+```
+
+## 4. Entry File Setup (`App.tsx`)
+
+Always import `./global.css` at line 1 before any other imports:
+
+```tsx
+import "./global.css";
+import React from 'react';
+import { View, Text } from 'react-native';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
+
+export default function App() {
+  return (
+    <SafeAreaProvider>
+      <SafeAreaView className="flex-1 bg-slate-100 justify-center items-center">
+        <View className="bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
+          <Text className="text-xl font-bold text-blue-600">Setup Verified! 🚀</Text>
+        </View>
+      </SafeAreaView>
+    </SafeAreaProvider>
+  );
+}
+```
+
+## 5. Startup Command
+
+Whenever changing `metro.config.js`, `babel.config.js`, or `tailwind.config.js`, **always** clear the Metro bundler cache:
+
+```bash
+npx expo start -c
+```
+
+## 6. Quick Error Diagnosis
+
+|Error Seen in Terminal|Real Root Cause|Instant Fix|
+|---|---|---|
+|`Cannot find module 'babel-preset-expo'`|Missing Babel preset in `node_modules`|Run `npm i -D babel-preset-expo`|
+|`Cannot read properties of undefined (reading 'transformFile')`|Babel failed to compile the file before passing to Metro|Check `babel.config.js` spelling & missing presets|
+|`Cannot find module ... loadUserConfig.js`|Syntax or import typo in `metro.config.js`|Ensure `require("expo/metro-config")` is used|
+|Red squiggly on `import "./global.css"`|TypeScript missing module declaration|Add `declare module "*.css";` to `nativewind-env.d.ts`|
+|Styles not reflecting on UI|`tailwind.config.js` `content` path missing current file|Add `"./App.{js,jsx,ts,tsx}"` to `content` array|
