@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactNative/TailWind.md",
+                "file": "ReactNative/TailWind Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TailWind"
+              "title": "TailWind Setup"
             }
           }
         ],
@@ -251,7 +251,7 @@
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
     "ReactNative/Introduction.md",
-    "ReactNative/TailWind.md",
+    "ReactNative/TailWind Setup.md",
     "FareLabs/FARELABS Software.md",
     "ReactNative",
     "FareLabs/Untitled",
