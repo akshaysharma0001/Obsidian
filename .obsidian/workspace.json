@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FareLabs/FARELABS Software.md",
+                "file": "ReactNative/TailWind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FARELABS Software"
+              "title": "TailWind"
             }
           }
         ],
@@ -250,12 +250,16 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
+    "ReactNative/Introduction.md",
+    "ReactNative/TailWind.md",
+    "FareLabs/FARELABS Software.md",
+    "ReactNative",
+    "FareLabs/Untitled",
     "DSA/dsa class qn.md",
     "DSA/DSAVL.md",
     "DSA/DSA Resources.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
     "FareLabs/userMicro.md",
-    "FareLabs/FARELABS Software.md",
     "Webdev/Week 8 Course selling app backend/Course selling app.md",
     "FareLabs/Todo.md",
     "Webdev/TypeScript/Typescript Introduction.md",
@@ -280,8 +284,6 @@
     "Webdev/Week 4 Express,npm basics/Ports.png",
     "Webdev/Week 4 Express,npm basics/Request respoonse.png",
     "Webdev/Week 4 Express,npm basics/Methods.md",
-    "Webdev/Week 3 DOM/Bash.md",
-    "Webdev/Week 2 async js, promise/JS architecture.md",
     "Webdev/Week 2 async js, promise/Js arch.png",
     "Webdev/Week 1 html css/table demo.png",
     "Webdev/Week 1 html css/package json file.png",
@@ -290,8 +292,6 @@
     "Webdev/Week 13 TailWind/Design - Graphic Design Portfolio Website in Black  White  Dark Classic Minimal Style.pdf",
     "DSA/DSAVL.html",
     "DSA/Unconfirmed 289209.crdownload",
-    "DSA/track.py",
-    "DSA/gemini-code-1788915812546.py",
     "Webdev/Week 12 UI UX/images/UI Frontend Development (Pt 2)/image.png",
     "Webdev/Week 12 UI UX/images/UI Frontend Designing/image.png",
     "Webdev/Week 12 UI UX/images/UI Frontend Designing/image 2.png",
