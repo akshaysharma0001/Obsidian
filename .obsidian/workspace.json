@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SelfStudy/Lesson 1 Clearing Mental Clutter & Active Noticing.md",
+                "file": "ReactNative/ZUSTAND.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 Clearing Mental Clutter & Active Noticing"
+              "title": "ZUSTAND"
             }
           }
         ],
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125,
-    "collapsed": true
+    "width": 297.42578125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -250,8 +249,9 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
-    "DSA/C++ Prerequisites for DSA.md",
     "SelfStudy/Lesson 1 Clearing Mental Clutter & Active Noticing.md",
+    "ReactNative/ZUSTAND.md",
+    "DSA/C++ Prerequisites for DSA.md",
     "SelfStudy",
     "DSA/DSA Resources.md",
     "DSA/1.Pattern Printing - 2.pdf.pdf",
@@ -286,7 +286,6 @@
     "Webdev/Week 4 Express,npm basics/Assignment - CLI todo.md",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI file cleaner.md",
     "Webdev/Week 4 Express,npm basics/HTTP.md",
-    "Webdev/Week 4 Express,npm basics/Body.md",
     "Webdev/Week 4 Express,npm basics/Ports.png",
     "Webdev/Week 4 Express,npm basics/Request respoonse.png",
     "Webdev/Week 2 async js, promise/Js arch.png",
