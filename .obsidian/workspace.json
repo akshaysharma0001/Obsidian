@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/C++ Prerequisites for DSA (Java to C++ Transition Guide).md",
+                "file": "DSA/C++ Prerequisites for DSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++ Prerequisites for DSA (Java to C++ Transition Guide)"
+              "title": "C++ Prerequisites for DSA"
             }
           }
         ],
@@ -251,7 +251,7 @@
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
     "DSA/DSA Resources.md",
-    "DSA/C++ Prerequisites for DSA (Java to C++ Transition Guide).md",
+    "DSA/C++ Prerequisites for DSA.md",
     "DSA/1.Pattern Printing - 2.pdf.pdf",
     "DSA/dsa class qn.md",
     "DSA/DSA _ Day 1- Introduction to C++.pdf",
