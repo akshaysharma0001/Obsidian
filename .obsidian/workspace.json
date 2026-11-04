@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactNative/ZUSTAND.md",
+                "file": "WebDevVL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZUSTAND"
+              "title": "WebDevVL"
             }
           }
         ],
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125,
-    "collapsed": true
+    "width": 297.42578125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -250,8 +249,9 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
-    "SelfStudy/Lesson 1 Clearing Mental Clutter & Active Noticing.md",
+    "WEB3 VL.md",
     "ReactNative/ZUSTAND.md",
+    "SelfStudy/Lesson 1 Clearing Mental Clutter & Active Noticing.md",
     "DSA/C++ Prerequisites for DSA.md",
     "SelfStudy",
     "DSA/DSA Resources.md",
@@ -286,7 +286,6 @@
     "FareLabs",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI todo.md",
     "Webdev/Week 4 Express,npm basics/Assignment - CLI file cleaner.md",
-    "Webdev/Week 4 Express,npm basics/HTTP.md",
     "Webdev/Week 4 Express,npm basics/Ports.png",
     "Webdev/Week 4 Express,npm basics/Request respoonse.png",
     "Webdev/Week 2 async js, promise/Js arch.png",
