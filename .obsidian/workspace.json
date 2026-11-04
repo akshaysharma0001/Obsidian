@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDevVL.md",
+                "file": "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebDevVL"
+              "title": "Route specific middleware"
             }
           }
         ],
@@ -249,6 +249,11 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
+    "Webdev/Week 5 Express, Git ,Middleware/Routes.md",
+    "Webdev/Week 6 authentication (zod ,jwt)/Authentication.md",
+    "Webdev/Week 6 authentication (zod ,jwt)/JWTs.md",
+    "ReactNative/Introduction.md",
+    "WebDevVL.md",
     "WEB3 VL.md",
     "ReactNative/ZUSTAND.md",
     "SelfStudy/Lesson 1 Clearing Mental Clutter & Active Noticing.md",
@@ -264,7 +269,6 @@
     "FareLabs/FARELABS Software.md",
     "FareLabs/FareLabs React native app/Start.md",
     "ReactNative/TailWind Setup.md",
-    "ReactNative/Introduction.md",
     "ReactNative",
     "FareLabs/FareLabs React native app",
     "DSA/DSAVL.md",
@@ -281,11 +285,7 @@
     "Webdev/TypeScript/TypeScript Explicit Types and Inference.md",
     "Webdev/TypeScript/JavaScript and TypeScript Primitives.md",
     "Webdev/TypeScript",
-    "Webdev/Week 5 Express, Git ,Middleware/Git.md",
-    "Webdev/Week 4 Express,npm basics/Express basic.md",
     "FareLabs",
-    "Webdev/Week 4 Express,npm basics/Assignment - CLI todo.md",
-    "Webdev/Week 4 Express,npm basics/Assignment - CLI file cleaner.md",
     "Webdev/Week 4 Express,npm basics/Ports.png",
     "Webdev/Week 4 Express,npm basics/Request respoonse.png",
     "Webdev/Week 2 async js, promise/Js arch.png",
