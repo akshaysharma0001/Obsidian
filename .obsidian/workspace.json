@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FareLabs/fare_labs_app_complete_obsidian_vault_documentation.md",
-                "mode": "source",
+                "file": "ReactNative/react_native_master_guide_basic_to_advanced.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fare_labs_app_complete_obsidian_vault_documentation"
+              "title": "react_native_master_guide_basic_to_advanced"
             }
           }
         ],
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125
+    "width": 297.42578125,
+    "collapsed": true
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "video links.md",
+                "file": "ReactNative/react_native_master_guide_basic_to_advanced.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,8 +223,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -249,8 +250,10 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
+    "FareLabs/Learning update 7.10.26.md",
+    "ReactNative/react_native_master_guide_basic_to_advanced.md",
+    "FareLabs/FareLabs React native app/fare_labs_app_complete_obsidian_vault_documentation.md",
     "FareLabs/FareLims.md",
-    "FareLabs/fare_labs_app_complete_obsidian_vault_documentation.md",
     "FareLabs/Unconfirmed 814752.crdownload",
     "FareLabs/FareLabs React native app/Start.md",
     "Webdev/Week 5 Express, Git ,Middleware/Route specific middleware.md",
@@ -282,9 +285,7 @@
     "Webdev/TypeScript/Index.md",
     "Webdev/Week 7 mongodb/Setting up Mongo db.md",
     "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
-    "FareLabs/Learning update 7.10.26.md",
     "Pasted image 20261009103047.png",
-    "FareLabs/useMemo.md",
     "Webdev/TypeScript",
     "Webdev/Week 4 Express,npm basics/Ports.png",
     "Webdev/Week 4 Express,npm basics/Request respoonse.png",
