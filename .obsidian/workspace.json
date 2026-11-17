@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactNative/react_native_master_guide_basic_to_advanced.md",
-                "mode": "preview",
+                "file": "Devops VL.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react_native_master_guide_basic_to_advanced"
+              "title": "Devops VL"
             }
           }
         ],
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125,
-    "collapsed": true
+    "width": 297.42578125
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -250,8 +249,11 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
-    "FareLabs/Learning update 7.10.26.md",
+    "WebDevVL.md",
+    "WEB3 VL.md",
+    "DSAVL.md",
     "ReactNative/react_native_master_guide_basic_to_advanced.md",
+    "FareLabs/Learning update 7.10.26.md",
     "FareLabs/FareLabs React native app/fare_labs_app_complete_obsidian_vault_documentation.md",
     "FareLabs/FareLims.md",
     "FareLabs/Unconfirmed 814752.crdownload",
@@ -261,8 +263,6 @@
     "Webdev/Week 6 authentication (zod ,jwt)/Authentication.md",
     "Webdev/Week 6 authentication (zod ,jwt)/JWTs.md",
     "ReactNative/Introduction.md",
-    "WebDevVL.md",
-    "WEB3 VL.md",
     "ReactNative/ZUSTAND.md",
     "SelfStudy/Lesson 1 Clearing Mental Clutter & Active Noticing.md",
     "DSA/C++ Prerequisites for DSA.md",
@@ -277,7 +277,6 @@
     "ReactNative/TailWind Setup.md",
     "ReactNative",
     "FareLabs/FareLabs React native app",
-    "DSA/DSAVL.md",
     "FareLabs/userMicro.md",
     "Webdev/Week 8 Course selling app backend/Course selling app.md",
     "FareLabs/Todo.md",
