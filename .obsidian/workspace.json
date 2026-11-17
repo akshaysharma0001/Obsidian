@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSAVL.md",
-                "mode": "source",
+                "file": "DSA/C++ Prerequisites for DSA.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSAVL"
+              "title": "C++ Prerequisites for DSA"
             }
           }
         ],
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.42578125
+    "width": 297.42578125,
+    "collapsed": true
   },
   "right": {
     "id": "a3920ba2fd51212b",
@@ -249,9 +250,9 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
+    "DSAVL.md",
     "Devops VL.md",
     "WebDevVL.md",
-    "DSAVL.md",
     "WEB3 VL.md",
     "ReactNative/react_native_master_guide_basic_to_advanced.md",
     "FareLabs/Learning update 7.10.26.md",
