@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops VL.md",
+                "file": "WebDevVL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devops VL"
+              "title": "WebDevVL"
             }
           }
         ],
@@ -249,9 +249,10 @@
   },
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
+    "Devops VL.md",
+    "DSAVL.md",
     "WebDevVL.md",
     "WEB3 VL.md",
-    "DSAVL.md",
     "ReactNative/react_native_master_guide_basic_to_advanced.md",
     "FareLabs/Learning update 7.10.26.md",
     "FareLabs/FareLabs React native app/fare_labs_app_complete_obsidian_vault_documentation.md",
@@ -283,7 +284,6 @@
     "Webdev/TypeScript/Typescript Introduction.md",
     "Webdev/TypeScript/Index.md",
     "Webdev/Week 7 mongodb/Setting up Mongo db.md",
-    "Webdev/Week 5 Express, Git ,Middleware/Git & GitHub Complete Guide.md",
     "Pasted image 20261009103047.png",
     "Webdev/TypeScript",
     "Webdev/Week 4 Express,npm basics/Ports.png",
