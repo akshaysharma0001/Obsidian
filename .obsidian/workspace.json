@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDevVL.md",
+                "file": "DSAVL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebDevVL"
+              "title": "DSAVL"
             }
           }
         ],
@@ -250,8 +250,8 @@
   "active": "be382d4e589cf40d",
   "lastOpenFiles": [
     "Devops VL.md",
-    "DSAVL.md",
     "WebDevVL.md",
+    "DSAVL.md",
     "WEB3 VL.md",
     "ReactNative/react_native_master_guide_basic_to_advanced.md",
     "FareLabs/Learning update 7.10.26.md",
