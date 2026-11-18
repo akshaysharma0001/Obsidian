@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FareLabs/FareLabs React native app/fare_labs_app.md",
+                "file": "ReactNative/react_native_master_guide_basic_to_advanced.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fare_labs_app"
+              "title": "react_native_master_guide_basic_to_advanced"
             }
           }
         ]
@@ -221,6 +221,7 @@
   },
   "active": "ee46a0a5ce8d3f28",
   "lastOpenFiles": [
+    "FareLabs/FareLabs React native app/fare_labs_app.md",
     "Webdev/TypeScript/Typescript Introduction.md",
     "DSA/C++ Prerequisites for DSA.md",
     "DSAVL.md",
@@ -229,7 +230,6 @@
     "WEB3 VL.md",
     "ReactNative/react_native_master_guide_basic_to_advanced.md",
     "FareLabs/Learning update 7.10.26.md",
-    "FareLabs/FareLabs React native app/fare_labs_app.md",
     "FareLabs/FareLims.md",
     "FareLabs/Unconfirmed 814752.crdownload",
     "FareLabs/FareLabs React native app/Start.md",
