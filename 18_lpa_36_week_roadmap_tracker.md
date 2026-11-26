@@ -61,15 +61,17 @@ const display = box.createEl("div", {
     attr: { style: "font-size: 1.75em; font-weight: 700; font-family: var(--font-monospace); color: var(--text-accent);" }
 });
 
+let timer = null;
+
 function renderCountdown() {
-    if (!document.body.contains(box)) {
+    if (timer !== null && !box.isConnected) {
         clearInterval(timer);
         return;
     }
     const diff = targetDate - Date.now();
     if (diff <= 0) {
         display.setText("0d : 00h : 00m : 00s — Interview Ready!");
-        clearInterval(timer);
+        if (timer !== null) clearInterval(timer);
         return;
     }
     const days = Math.floor(diff / (1000 * 60 * 60 * 24));
@@ -82,10 +84,8 @@ function renderCountdown() {
 }
 
 renderCountdown();
-const timer = setInterval(renderCountdown, 1000);
+timer = setInterval(renderCountdown, 1000);
 ```
-
----
 
 ## Phase 1: Core Foundations (Weeks 1–12 | Dec 2026 – Feb 2027)
 
@@ -154,8 +154,6 @@ const timer = setInterval(renderCountdown, 1000);
 - [ ] **Dev:** Add WebSocket live status updates (using W16.1)
 - [ ] **Milestone:** Write integration tests for auth, locks, and rate limiter (130 DSA problems total)
 
----
-
 ## Phase 2: Scale, Architecture & Advanced DSA (Weeks 13–24 | Mar 2027 – May 2027)
 
 ### Week 13
@@ -219,8 +217,6 @@ const timer = setInterval(renderCountdown, 1000);
 - [ ] **Commute:** Revise Full DSA Mistake Log (Weeks 1–23)
 - [ ] **Dev:** Finalize flagship README (benchmarks, trade-offs, AI eval results) and record 2-min demo video
 - [ ] **Milestone:** Portfolio-ready flagship project complete (255+ DSA problems total)
-
----
 
 ## Phase 3: Interview Polish & 18 LPA Conversion (Weeks 25–36 | Jun 2027 – Aug 2027)
 
